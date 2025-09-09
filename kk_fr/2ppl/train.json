@@ -1,0 +1,802 @@
+[
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Olivier et Ethan. Olivier vous a dit qu'Olivier est un chevalier ou qu'Ethan est un vaurien. Dans une déclaration d'Ethan : \"Olivier est un chevalier\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Olivier est un Chevalier  \n(2) Ethan est un Chevalier"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Michel et Jacob. Michel a dit : « Jacob est un vaurien. » « Michel est un vaurien si et seulement si Michel est un chevalier, » a déclaré Jacob. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Michel est un Chevalier  \n(2) Jacob est un Vaurien"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Amélia et Harper. Amélia a été entendue dire : \"Harper est un chevalier ou Harper est un vaurien\". \"Amélia est un chevalier et Amélia est un vaurien,\" a affirmé Harper. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Amélia est une Chevalière  \n(2) Harper est un Vaurien"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Logan et Lilie. Logan a déclaré : \"Lilie n'est pas une vaurienne\". Lilie a exprimé que Logan est un vaurien et que Lilie est une chevalière. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Logan est un vaurien  \n(2) Lilie est une vaurienne"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Jack et Évelyne. Dans les mots de Jack : \"Évelyne est un chevalier ou Évelyne est une vaurienne\". Évelyne a affirmé : \"Si Jack est un vaurien alors Évelyne est un chevalier\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Jack est un Chevalier  \n(2) Évelyne est une Chevalière"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Samuel et Aria. Dans les mots de Samuel : \"Aria est un chevalier si et seulement si Aria est une vaurienne\". Aria a commenté : \"Samuel est un vaurien ou Samuel est un chevalier\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Samuel est un vaurien  \n(2) Aria est une chevalière"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Daniel et Liam. Dans une déclaration de Daniel : \"Liam est un vaurien si et seulement si Daniel est un chevalier\". Liam a dit : \"Daniel est un chevalier ou Liam est un chevalier.\" Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Daniel est un vaurien  \n(2) Liam est un vaurien"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Ava et Henri. Ava vous a dit qu'Henri est un chevalier ou qu'Henri est un vaurien. \"Ava est un chevalier si et seulement si Ava est un vaurien,\" a affirmé Henri. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Ava est une Chevalière  \n(2) Henri est un Vaurien"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Pénélope et Alexandre. Pénélope a affirmé : \"Si Pénélope est une chevalière alors Alexandre est un chevalier\". Selon Alexandre, \"Pénélope est une chevalière\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Pénélope est une Chevalière  \n(2) Alexandre est un Chevalier"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Riley et Sofia. \"Sofia est une chevalière si et seulement si Sofia est une vaurienne\" - Riley. Sofia a remarqué : \"Riley est un vaurien ou Sofia est une chevalière\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Riley est un vaurien  \n(2) Sophia est une chevalière"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Liam et Benjamin. Liam a dit que si Benjamin est un vaurien, alors Liam est un chevalier. \"Liam est un chevalier ou Liam est un vaurien,\" a déclaré Benjamin. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Liam est un Chevalier  \n(2) Benjamin est un Chevalier"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Scarlett et Aria. \"Aria est un vaurien et Aria est un chevalier,\" a mentionné Scarlett. \"Scarlett est un chevalier si et seulement si Scarlett est un vaurien\" - Aria. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Scarlett est une vaurienne  \n(2) Aria est une vaurienne"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Harper et Luc. Harper a été entendu dire : \"Luc est un chevalier\". \"Harper est un chevalier si et seulement si Luc est un chevalier,\" a déclaré Luc. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Harper est un Chevalier  \n(2) Luc est un Chevalier"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Ava et Charlotte. Ava a exprimé que Charlotte est une vaurienne. Charlotte a affirmé : \"Ava est une chevalière si et seulement si Charlotte est une chevalière\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Ava est une Chevalière  \n(2) Charlotte est une Vaurienne"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Joseph et Samuel. Joseph a remarqué : \"Samuel est un chevalier et Samuel est un vaurien\". Samuel a exprimé que Joseph est un chevalier si et seulement si Joseph est un vaurien. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Joseph est un vaurien  \n(2) Samuel est un vaurien"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Sébastien et Benjamin. \"Si Sébastien est un chevalier alors Benjamin est un vaurien,\" a déclaré Sébastien. \"Sébastien est un chevalier et Sébastien est un vaurien\" - Benjamin. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Sébastien est un Chevalier  \n(2) Benjamin est un Vaurien"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Amélia et Jacob. Amélia a dit que Jacob est un chevalier et Jacob est un vaurien. Jacob a commenté : \"Si Amélia est une vaurienne alors Amélia est un chevalier\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Amélia est une vaurienne  \n(2) Jacob est un vaurien"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Abigaïl et Harper. Abigaïl a affirmé : \"Si Abigaïl est une chevalière alors Harper est un chevalier\". Selon Harper, \"Abigaïl est une chevalière ou Harper est un chevalier\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Abigaïl est une Chevalière  \n(2) Harper est un Chevalier"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Scarlett et Joseph. \"Scarlett est un chevalier si et seulement si Joseph est un vaurien,\" a déclaré Scarlett. Joseph a été entendu dire : \"Si Scarlett est un vaurien alors Joseph est un chevalier.\" Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Scarlett est une vaurienne  \n(2) Joseph est un vaurien"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Daniel et Riley. Selon Daniel, \"Riley n'est pas un chevalier\". \"Daniel est un chevalier si et seulement si Riley est un chevalier,\" a déclaré Riley. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Daniel est un Chevalier  \n(2) Riley est un Vaurien"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Élisabeth et Olivier. \"Olivier n'est pas un vaurien,\" a mentionné Élisabeth. Olivier a remarqué, \"Olivier est un chevalier ou Élisabeth est une vaurienne\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Élisabeth est une Chevalière  \n(2) Olivier est un Chevalier"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Daniel et Abigaïl. Selon Daniel, \"Abigaïl est un vaurien et Abigaïl est un chevalier\". Abigaïl a noté : \"Daniel est un chevalier ou Daniel est un vaurien\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Daniel est un vaurien  \n(2) Abigaïl est une chevalière"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Sofia et Logan. \"Logan est un chevalier ou Logan est un vaurien,\" déclara Sofia. \"Sofia est un chevalier ou Sofia est un vaurien,\" affirma Logan. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Sophie est une Chevalière  \n(2) Logan est un Chevalier"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Charlotte et Alexandre. Charlotte a dit : \"Si Alexandre est un chevalier alors Alexandre est un vaurien.\" \"Charlotte est un chevalier ou Alexandre est un chevalier,\" a déclaré Alexandre. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Charlotte est une vaurienne  \n(2) Alexandre est un chevalier"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Charlotte et Aiden. Charlotte vous a dit qu'Aiden est un vaurien. Aiden a déclaré : \"Charlotte est un vaurien ou Charlotte est une chevalière\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Charlotte est une vaurienne  \n(2) Aiden est un chevalier"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Charlotte et Scarlett. \"Scarlett est une chevalière et Scarlett est une vaurienne\" - Charlotte. Scarlett a déclaré : \"Scarlett est une chevalière et Charlotte est une chevalière\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Charlotte est une vaurienne  \n(2) Scarlett est une vaurienne"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Olivia et Henri. Olivia a affirmé : \"Henri est un chevalier ou Henri est un vaurien\". Dans les mots d'Henri : \"Olivia est un vaurien et Olivia est un chevalier\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Olivia est une Chevalière  \n(2) Henry est un Vaurien"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Daniel et Lilie. Daniel a été entendu dire : \"Si Lilie est une chevalière alors Lilie est un vaurien\". Lilie a été entendue dire : \"Lilie est une chevalière ou Daniel est un chevalier\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Daniel est un vaurien  \n(2) Lilie est une chevalière"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Jack et Benjamin. Jack vous a dit que Benjamin est un chevalier ou que Jack est un chevalier. Benjamin a remarqué : \"Si Jack est un chevalier alors Jack est un vaurien\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Jack est un Chevalier  \n(2) Benjamin est un Vaurien"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Daniel et Samuel. Daniel a dit : \"Samuel est un vaurien ou Samuel est un chevalier.\" Samuel a dit que Samuel est un chevalier ou Daniel est un chevalier. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Daniel est un Chevalier  \n(2) Samuel est un Chevalier"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Liam et Aria. \"Aria n'est pas une vaurienne\" - Liam. Aria a affirmé : \"Aria est une chevalière si et seulement si Liam est un chevalier\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Liam est un Chevalier  \n(2) Aria est une Chevalière"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : William et Noé. William a exprimé que Noé est un vaurien ou Noé est un chevalier. Dans une déclaration de Noé : \"William est un chevalier si et seulement si William est un vaurien\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) William est un Chevalier  \n(2) Noé est un Vaurien"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Mia et Aria. \"Mia est un chevalier ou Aria est un chevalier,\" déclara Mia. Aria dit : \"Si Mia est un chevalier alors Mia est un vaurien.\" Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Mia est une Chevalière  \n(2) Aria est une Vaurienne"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Aurore et Charlotte. Aurore a noté : \"Charlotte est une chevalière si et seulement si Aurore est une chevalière\". Comme l'a dit Charlotte : \"Si Charlotte est une chevalière alors Aurore est une chevalière\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Aurore est une Chevalière  \n(2) Charlotte est une Chevalière"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Chloé et Jacob. Chloé a déclaré : \"Jacob est un chevalier et Jacob est un vaurien\". Jacob a affirmé : \"Chloé est une vaurienne\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Chloé est une vaurienne  \n(2) Jacob est un chevalier"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Liam et Logan. Liam a été entendu dire : \"Liam est un chevalier si et seulement si Logan est un vaurien.\" Logan a dit : \"Liam n'est pas un vaurien.\" Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Liam est un vaurien  \n(2) Logan est un vaurien"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Samuel et Isabelle. \"Isabelle est une chevalière\" - Samuel. Isabelle a dit que Samuel est un vaurien et qu'Isabelle est une chevalière. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Samuel est un vaurien  \n(2) Isabelle est une vaurienne"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Benjamin et Lilie. Dans les mots de Benjamin : \"Si Lilie est une vaurienne alors Lilie est un chevalier.\" \"Benjamin est un vaurien et Benjamin est un chevalier,\" déclara Lilie. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Benjamin est un vaurien  \n(2) Lilie est une vaurienne"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Mason et Zoé. Mason a déclaré : \"Zoé est une chevalière et Zoé est une vaurienne\". Zoé a affirmé : \"Mason est un chevalier\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Mason est un vaurien  \n(2) Zoé est une vaurienne"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Sofia et Charlotte. Sofia a commenté : \"Si Sofia est une chevalière alors Charlotte est une vaurienne\". \"Sofia est une vaurienne et Sofia est une chevalière\" - Charlotte. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Sophie est une Chevalière  \n(2) Charlotte est une Vaurienne"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : William et David. Comme l'a dit William, \"David est un vaurien et David est un chevalier\". David a remarqué, \"Si William est un chevalier alors David est un chevalier\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) William est un vaurien  \n(2) David est un chevalier"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Sofia et Noé. \"Si Sofia est une chevalière alors Noé est un vaurien\" - Sofia. Noé a remarqué : \"Si Sofia est une chevalière alors Noé est un chevalier\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Sophie est une Chevalière  \n(2) Noé est un Vaurien"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Charlotte et Évelyne. Charlotte a déclaré : \"Si Charlotte est une chevalière alors Évelyne est une chevalière\". Évelyne a déclaré : \"Évelyne est une chevalière si et seulement si Charlotte est une chevalière\". Alors, qui est chevalier et qui est vaurien ?",
+        "solution_text_format": "(1) Charlotte est une Chevalière  \n(2) Évelyne est une Chevalière"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Daniel et Jack. Daniel a exprimé que si Daniel est un chevalier, alors Jack est un chevalier. \"Jack est un chevalier,\" a mentionné Jack. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Daniel est un Chevalier  \n(2) Jack est un Chevalier"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Évelyne et Harper. \"Harper n'est pas un chevalier,\" a mentionné Évelyne. Dans les mots de Harper : \"Évelyne est un vaurien si et seulement si Évelyne est un chevalier\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Évelyne est une Chevalière  \n(2) Harper est un Vaurien"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Avery et Michel. \"Avery est un chevalier si et seulement si Michel est un vaurien,\" a mentionné Avery. \"Avery n'est pas un chevalier,\" a déclaré Michel. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Avery est un Chevalier  \n(2) Michel est un Vaurien"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Élisabeth et Aurore. Selon Élisabeth, \"Élisabeth est une chevalière si et seulement si Aurore est une chevalière\". Aurore a remarqué, \"Élisabeth est une chevalière\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Élisabeth est une Chevalière  \n(2) Aurore est une Chevalière"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Riley et Benjamin. Comme l'a dit Riley, \"Riley est un chevalier ou Benjamin est un vaurien\". Benjamin a affirmé : \"Riley est un vaurien si et seulement si Benjamin est un chevalier\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Riley est un vaurien  \n(2) Benjamin est un chevalier"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Pénélope et Olivier. Pénélope a dit qu'Olivier est un vaurien si et seulement si Pénélope est une chevalière. Olivier a exprimé que si Pénélope est une vaurienne alors Pénélope est une chevalière. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Pénélope est une vaurienne  \n(2) Olivier est un vaurien"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Chloé et Jacques. Comme l'a dit Chloé, \"Jacques est un vaurien\". Selon Jacques, \"Chloé est un vaurien si et seulement si Jacques est un chevalier\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Chloé est une vaurienne  \n(2) Jacques est un chevalier"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Henri et David. \"David est un vaurien et David est un chevalier,\" a mentionné Henri. Dans une déclaration de David : \"Henri est un vaurien\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Henri est un vaurien  \n(2) David est un chevalier"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Évelyne et Élisabeth. Évelyne vous a dit qu'Évelyne est un chevalier si et seulement si Élisabeth est une vaurienne. \"Évelyne est un chevalier\" - Élisabeth. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Évelyne est une vaurienne  \n(2) Élisabeth est une vaurienne"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Jackson et Élisabeth. Comme l'a dit Jackson, \"Élisabeth est une vaurienne et Jackson est un chevalier\". \"Si Jackson est un vaurien alors Jackson est un chevalier,\" déclara Élisabeth. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Jackson est un vaurien  \n(2) Élisabeth est une vaurienne"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Aiden et Emma. Aiden a déclaré : \"Aiden est un chevalier et Emma est un chevalier\". \"Si Emma est une chevalière alors Aiden est un chevalier\" - Emma. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Aiden est un Chevalier  \n(2) Emma est une Chevalière"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Sébastien et Ava. Dans une déclaration de Sébastien : \"Ava est une chevalière\". \"Si Sébastien est un chevalier alors Ava est une chevalière,\" a déclaré Ava. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Sébastien est un Chevalier  \n(2) Ava est un Chevalier"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Jacques et Olivier. Jacques a affirmé : \"Si Olivier est un vaurien alors Olivier est un chevalier\". Olivier vous a dit que Jacques est un chevalier ou que Jacques est un vaurien. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Jacques est un Chevalier  \n(2) Olivier est un Chevalier"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Riley et Mathieu. \"Mathieu est un vaurien ou Mathieu est un chevalier,\" a affirmé Riley. Mathieu a remarqué, \"Si Riley est un vaurien alors Mathieu est un chevalier.\" Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Riley est un Chevalier  \n(2) Mathieu est un Chevalier"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Jackson et Michel. Jackson a dit : \"Si Jackson est un chevalier alors Michel est un vaurien.\" Michel a noté : \"Jackson n'est pas un chevalier.\" Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Jackson est un Chevalier  \n(2) Michael est un Vaurien"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Pénélope et Alexandre. Pénélope a dit : \"Alexandre est un chevalier.\" \"Pénélope est un vaurien si et seulement si Pénélope est un chevalier,\" a déclaré Alexandre. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Pénélope est une vaurienne  \n(2) Alexandre est un vaurien"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Aria et Noé. \"Noé n'est pas un chevalier,\" a mentionné Aria. \"Aria est un vaurien si et seulement si Noé est un chevalier,\" a déclaré Noé. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Aria est une vaurienne  \n(2) Noé est un chevalier"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Noé et Jackson. Noé a déclaré : \"Jackson est un vaurien si et seulement si Noé est un chevalier\". Jackson vous a dit que si Noé est un chevalier alors Noé est un vaurien. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Noé est un Chevalier  \n(2) Jackson est un Vaurien"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Ava et Ethan. Ava a affirmé : \"Ava est une chevalière si et seulement si Ethan est un vaurien.\" Ethan a dit : \"Ethan est un chevalier ou Ava est une vaurienne.\" Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Ava est une Chevalière  \n(2) Ethan est un Vaurien"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Abigaïl et Victoire. Abigaïl a noté : \"Si Victoire est une vaurienne alors Victoire est un chevalier\". Dans une déclaration de Victoire : \"Victoire est un chevalier et Abigaïl est une vaurienne\". Alors qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Abigaïl est une vaurienne  \n(2) Victoire est une vaurienne"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Joseph et Jackson. \"Si Jackson est un chevalier alors Joseph est un chevalier\" - Joseph. \"Si Jackson est un chevalier alors Joseph est un chevalier,\" a déclaré Jackson. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Joseph est un Chevalier  \n(2) Jackson est un Chevalier"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Noé et Charlotte. Noé vous a dit que Charlotte est un chevalier et que Noé est un chevalier. Charlotte a été entendue dire : \"Charlotte est un chevalier si et seulement si Noé est un chevalier\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Noé est un Chevalier  \n(2) Charlotte est une Chevalière"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Avery et Chloé. Avery a dit que Chloé est une chevalière et Chloé est une vaurienne. \"Avery n'est pas un chevalier,\" a mentionné Chloé. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Avery est un vaurien  \n(2) Chloé est une chevalière"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Évelyne et Ava. \"Si Évelyne est une chevalière alors Ava est une chevalière,\" a déclaré Évelyne. Ava vous a dit qu'Ava est une chevalière ou qu'Évelyne est une chevalière. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Évelyne est une Chevalière  \n(2) Ava est une Chevalière"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Mathieu et Victoire. Dans les mots de Mathieu : \"Victoire n'est pas une chevalière\". Dans les mots de Victoire : \"Victoire est une chevalière et Mathieu est un chevalier\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Mathieu est un Chevalier  \n(2) Victoire est une Vaurienne"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Daniel et William. \"William est un chevalier ou Daniel est un chevalier,\" déclara Daniel. William exprima que Daniel est un chevalier ou Daniel est un vaurien. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Daniel est un Chevalier  \n(2) William est un Chevalier"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Luc et Alexandre. Luc a dit : \"Si Luc est un chevalier alors Alexandre est un vaurien.\" Alexandre a dit : \"Alexandre est un chevalier et Luc est un chevalier.\" Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Luc est un Chevalier  \n(2) Alexandre est un Vaurien"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Mia et Samuel. Mia a déclaré que Mia est une chevalière et Samuel est un chevalier. Samuel a déclaré que Mia est une chevalière et Mia est un vaurien. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Mia est une vaurienne  \n(2) Samuel est un vaurien"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Liam et Henri. Selon Liam, \"Liam est un chevalier si et seulement si Henri est un chevalier\". Henri a dit : \"Liam n'est pas un vaurien.\" Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Liam est un Chevalier  \n(2) Henri est un Chevalier"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Olivia et Joseph. \"Si Joseph est un chevalier, alors Olivia est un chevalier\" - Olivia. Joseph a commenté : \"Olivia est une vaurienne si et seulement si Olivia est un chevalier\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Olivia est une Chevalière  \n(2) Joseph est un Vaurien"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Jack et Jackson. \"Jack est un chevalier et Jackson est un vaurien,\" a affirmé Jack. Jackson vous a dit que Jack n'est pas un vaurien. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Jack est un vaurien  \n(2) Jackson est un vaurien"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Évelyne et Ethan. Dans une déclaration d'Évelyne : \"Évelyne est un chevalier si et seulement si Ethan est un vaurien\". Comme l'a dit Ethan, \"Ethan est un chevalier si et seulement si Évelyne est un vaurien\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Évelyne est une vaurienne  \n(2) Ethan est un vaurien"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Avery et Aurore. Avery a commenté : \"Si Aurore est une chevalière alors Avery est un chevalier\". Selon Aurore, \"Avery est un chevalier et Avery est un vaurien\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Avery est un Chevalier  \n(2) Aurore est une Vaurienne"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Isabelle et Évelyne. Dans une déclaration d'Isabelle : \"Évelyne n'est pas une chevalière\". Évelyne a déclaré : \"Isabelle est un vaurien ou Isabelle est une chevalière\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Isabelle est une vaurienne  \n(2) Évelyne est une chevalière"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Samuel et Scarlett. \"Si Scarlett est une vaurienne, alors Samuel est un chevalier,\" déclara Samuel. \"Samuel n'est pas un chevalier,\" déclara Scarlett. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Samuel est un Chevalier  \n(2) Scarlett est une Vaurienne"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Jacques et Samuel. Jacques a exprimé que Samuel est un chevalier ou Jacques est un chevalier. \"Jacques est un vaurien ou Jacques est un chevalier,\" a affirmé Samuel. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Jacques est un Chevalier  \n(2) Samuel est un Chevalier"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des Chevaliers et des Vauriens. Les Chevaliers disent toujours la vérité, et les Vauriens mentent toujours. Vous rencontrez 2 habitants : Harper et Zoé. Harper a commenté : \"Zoé est un Vaurien si et seulement si Zoé est un Chevalier\". Zoé a été entendue dire : \"Harper est un Vaurien ou Harper est un Chevalier\". Alors, qui est un Chevalier et qui est un Vaurien ?",
+        "solution_text_format": "(1) Harper est un vaurien  \n(2) Zoé est une chevalière"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Riley et Élisabeth. Riley a déclaré : \"Si Élisabeth est une vaurienne alors Élisabeth est un chevalier\". Élisabeth a déclaré : \"Riley est un vaurien ou Riley est un chevalier\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Riley est un Chevalier  \n(2) Élisabeth est une Chevalière"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Harper et Élisabeth. Harper a remarqué : \"Élisabeth est une chevalière et Élisabeth est une vaurienne\". Selon Élisabeth, \"Élisabeth est une chevalière ou Harper est un vaurien\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Harper est un vaurien  \n(2) Élisabeth est une chevalière"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Avery et Liam. Dans les mots d'Avery : \"Avery est un chevalier ou Liam est un chevalier\". Dans une déclaration de Liam : \"Liam est un chevalier si et seulement si Avery est un vaurien\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Avery est un vaurien  \n(2) Liam est un vaurien"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Sophie et Émilie. Dans les mots de Sophie : \"Si Émilie est une chevalière alors Émilie est une vaurienne\". Émilie a déclaré : \"Si Sophie est une vaurienne alors Émilie est une chevalière\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Sophie est une vaurienne  \n(2) Émilie est une chevalière"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Ella et Jacob. \"Jacob est un vaurien,\" déclara Ella. Jacob affirma : \"Si Jacob est un chevalier alors Ella est une vaurienne\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Ella est une vaurienne  \n(2) Jacob est un chevalier"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Jack et Aria. \"Si Jack est un chevalier alors Aria est une vaurienne,\" déclara Jack. Aria vous a dit que Jack est un vaurien. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Jack est un Chevalier  \n(2) Aria est une Vaurienne"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Ava et Lucas. Ava vous a dit que Lucas est un chevalier. \"Lucas est un chevalier et Ava est une vaurienne,\" a mentionné Lucas. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Ava est une vaurienne  \n(2) Lucas est un vaurien"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Mason et Olivier. \"Olivier est un vaurien si et seulement si Olivier est un chevalier,\" a mentionné Mason. \"Mason est un chevalier si et seulement si Mason est un vaurien,\" a déclaré Olivier. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Mason est un vaurien  \n(2) Olivier est un vaurien  "
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Amélia et Aurore. \"Aurore n'est pas une vaurienne,\" a mentionné Amélia. Aurore a dit : \"Amélia est une vaurienne ou Amélia est une chevalière.\" Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Amélia est une Chevalière  \n(2) Aurore est une Chevalière"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Amélia et Jacob. \"Jacob est un chevalier et Jacob est un vaurien,\" déclara Amélia. Dans une déclaration de Jacob : \"Si Amélia est une chevalière alors Jacob est un chevalier\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Amélia est une vaurienne  \n(2) Jacob est un chevalier"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Scarlett et William. Dans les mots de Scarlett : \"William est un chevalier si et seulement si William est un vaurien\". William a été entendu dire : \"Si Scarlett est un vaurien alors Scarlett est un chevalier\". Alors qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Scarlett est une vaurienne  \n(2) William est un vaurien"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Mason et Harper. Dans une déclaration de Mason : \"Harper est un vaurien et Mason est un chevalier\". Harper a déclaré : \"Mason est un chevalier ou Mason est un vaurien\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Mason est un vaurien  \n(2) Harper est un chevalier"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Luc et Grâce. Luc vous a dit que Grâce est un vaurien ou Grâce est une chevalière. Grâce a affirmé : \"Si Grâce est une chevalière alors Luc est un chevalier\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Luc est un Chevalier  \n(2) Grâce est une Chevalière"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Avery et Jacques. Avery a déclaré : « Jacques est un vaurien ». Jacques a remarqué : « Jacques est un chevalier et Avery est un chevalier ». Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Avery est un Chevalier  \n(2) Jacques est un Vaurien"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Jackson et Lilie. \"Lilie est une vaurienne ou Jackson est un chevalier,\" déclara Jackson. Lilie a dit : \"Jackson est un chevalier.\" Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Jackson est un Chevalier  \n(2) Lilie est une Chevalière"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Owen et Scarlett. Owen a déclaré qu'Owen est un chevalier et que Scarlett est une vaurienne. Scarlett a dit que si Scarlett est une chevalière, alors Owen est un vaurien. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Owen est un vaurien  \n(2) Scarlett est une chevalière"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des Chevaliers et des Vauriens. Les Chevaliers disent toujours la vérité, et les Vauriens mentent toujours. Vous rencontrez 2 habitants : Emma et Isabelle. Selon Emma, \"Si Isabelle est une Chevalière alors Emma est une Chevalière\". Isabelle a déclaré, \"Si Emma est une Vaurienne alors Emma est une Chevalière\". Alors, qui est un Chevalier et qui est un Vaurien ?",
+        "solution_text_format": "(1) Emma est une Chevalière  \n(2) Isabelle est une Chevalière"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Noé et Mathieu. \"Mathieu est un chevalier,\" a mentionné Noé. Mathieu a commenté : \"Noé est un chevalier si et seulement si Noé est un vaurien\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Noé est un vaurien  \n(2) Mathieu est un vaurien"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Liam et David. Liam a dit que David est un vaurien ou que Liam est un chevalier. David a affirmé : \"Si David est un chevalier alors Liam est un chevalier\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Liam est un Chevalier  \n(2) David est un Chevalier"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Élisabeth et Noé. Élisabeth vous a dit qu'Élisabeth est une chevalière si et seulement si Noé est un vaurien. \"Élisabeth est une vaurienne,\" a affirmé Noé. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Élisabeth est une Chevalière  \n(2) Noé est un Vaurien"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Olivia et Jack. \"Si Jack est un chevalier, alors Olivia est un chevalier,\" a affirmé Olivia. Jack a déclaré : \"Olivia est un chevalier.\" Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Olivia est une Chevalière  \n(2) Jack est un Chevalier"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Ethan et Élisabeth. \"Élisabeth est un vaurien et Élisabeth est une chevalière\" - Ethan. Élisabeth a dit : \"Ethan est un chevalier et Élisabeth est une chevalière.\" Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Ethan est un vaurien  \n(2) Élisabeth est une vaurienne"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Liam et Noé. Liam a remarqué : \"Si Noé est un vaurien alors Liam est un chevalier\". Noé a exprimé que si Noé est un chevalier alors Liam est un chevalier. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Liam est un Chevalier  \n(2) Noé est un Chevalier"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Isabelle et Emma. \"Emma est une chevalière ou Emma est une vaurienne,\" a affirmé Isabelle. Emma vous a dit qu'Isabelle est une chevalière ou Emma est une chevalière. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Isabelle est une Chevalière  \n(2) Emma est une Chevalière"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : David et Ava. \"Ava est un vaurien si et seulement si Ava est une chevalier,\" déclara David. Ava affirma : \"David est un chevalier et Ava est une chevalier\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) David est un vaurien  \n(2) Ava est une vaurienne"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Logan et Ella. Logan a noté : \"Si Logan est un chevalier alors Ella est une vaurienne.\" \"Ella est une chevalière et Logan est un vaurien,\" a déclaré Ella. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Logan est un Chevalier  \n(2) Ella est une Vaurienne"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Sophie et Aria. Dans les mots de Sophie : \"Aria est un vaurien si et seulement si Aria est un chevalier\". Dans les mots d'Aria : \"Sophie est un vaurien et Sophie est un chevalier\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Sophie est une vaurienne  \n(2) Aria est une vaurienne"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Sébastien et Ava. Comme l'a dit Sébastien, \"Ava est un chevalier si et seulement si Sébastien est un chevalier\". Selon Ava, \"Ava est un chevalier si et seulement si Sébastien est un chevalier\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Sébastien est un Chevalier  \n(2) Ava est un Chevalier"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Lucas et Sébastien. Lucas a déclaré : « Sébastien est un vaurien et Lucas est un chevalier ». Comme l'a dit Sébastien : « Lucas est un chevalier si et seulement si Sébastien est un chevalier ». Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Lucas est un Chevalier  \n(2) Sébastien est un Vaurien"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Mathieu et Élisabeth. Dans les mots de Mathieu : \"Mathieu est un chevalier si et seulement si Élisabeth est une chevalière\". Élisabeth a dit : \"Si Mathieu est un chevalier alors Mathieu est un vaurien.\" Alors qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Mathieu est un vaurien  \n(2) Élisabeth est une chevalière"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Ella et Isabelle. Ella vous a dit qu'Isabelle est une vaurienne. Isabelle a dit qu'Ella est une chevalière si et seulement si Ella est une vaurienne. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Ella est une Chevalière  \n(2) Isabelle est une Vaurienne"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Abigaïl et Isabelle. \"Isabelle est une chevalière ou Abigaïl est une chevalière,\" a déclaré Abigaïl. Isabelle a dit : \"Abigaïl n'est pas une chevalière.\" Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Abigaïl est une Chevalière  \n(2) Isabelle est une Vaurienne"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Aiden et Victoire. Aiden a noté : \"Si Victoire est une vaurienne alors Victoire est un chevalier\". Victoire a affirmé : \"Si Victoire est un chevalier alors Aiden est un chevalier\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Aiden est un Chevalier  \n(2) Victoire est une Chevalière"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Amélia et Olivia. Comme l'a dit Amélia, \"Si Amélia est une chevalière alors Olivia est une vaurienne\". Olivia a dit : \"Olivia est une chevalière si et seulement si Amélia est une chevalière.\" Alors, qui est chevalier et qui est vaurien ?",
+        "solution_text_format": "(1) Amélia est une Chevalière  \n(2) Olivia est une Vaurienne"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Évelyne et Olivia. Évelyne a déclaré : \"Olivia est une chevalière\". Dans une déclaration d'Olivia : \"Évelyne est une vaurienne ou Olivia est une chevalière\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Évelyne est une Chevalière  \n(2) Olivia est une Chevalière"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Ethan et Lucas. Dans une déclaration d'Ethan : \"Lucas est un vaurien si et seulement si Ethan est un chevalier\". Lucas a dit : \"Ethan est un chevalier.\" Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Ethan est un vaurien  \n(2) Lucas est un vaurien"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Évelyne et Liam. Évelyne a remarqué : \"Évelyne est une chevalière si et seulement si Liam est un vaurien\". Dans une déclaration de Liam : \"Liam est un chevalier ou Évelyne est une chevalière\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Évelyne est une vaurienne  \n(2) Liam est un vaurien"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Victoire et Abigaïl. Victoire a affirmé : \"Si Abigaïl est un vaurien alors Abigaïl est un chevalier.\" \"Abigaïl est un chevalier si et seulement si Victoire est un chevalier,\" a déclaré Abigaïl. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Victoire est une Chevalière  \n(2) Abigaïl est une Chevalière"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : William et Charlotte. William a commenté : \"Si William est un chevalier alors Charlotte est une vaurienne\". Dans une déclaration de Charlotte : \"William est un chevalier et Charlotte est une chevalière\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) William est un Chevalier  \n(2) Charlotte est une Vaurienne"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Ella et Scarlett. Ella a été entendue dire : \"Scarlett est un vaurien ou Scarlett est une chevalière\". \"Ella est une chevalière ou Ella est une vaurienne,\" a mentionné Scarlett. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Ella est une Chevalière  \n(2) Scarlett est une Chevalière"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Sophie et Chloé. Sophie a remarqué : \"Si Sophie est une chevalière, alors Chloé est une chevalière\". Chloé a exprimé que Sophie est une vaurienne ou que Sophie est une chevalière. Alors, qui est chevalier et qui est vaurien ?",
+        "solution_text_format": "(1) Sophie est une Chevalière  \n(2) Chloé est une Chevalière"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Olivia et Ella. Olivia a été entendue dire : \"Si Olivia est une chevalière alors Ella est une chevalière\". Ella vous a dit que si Ella est une chevalière alors Olivia est une chevalière. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Olivia est une Chevalière  \n(2) Ella est une Chevalière"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Benjamin et Pénélope. Benjamin a déclaré : \"Pénélope est une chevalière si et seulement si Benjamin est un chevalier\". Pénélope vous a dit que Pénélope est une chevalière et que Benjamin est un chevalier. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Benjamin est un Chevalier  \n(2) Pénélope est une Chevalière"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Henri et Benjamin. Henri a exprimé qu'il est un chevalier si et seulement si Benjamin est un chevalier. Dans les mots de Benjamin : \"Henri est un vaurien et Benjamin est un chevalier\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Henri est un vaurien  \n(2) Benjamin est un chevalier"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : David et Noé. David vous a dit que Noé est un chevalier si et seulement si Noé est un vaurien. Noé a exprimé que David est un chevalier. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) David est un vaurien  \n(2) Noé est un vaurien"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Benjamin et Jacob. Benjamin a dit que Jacob est un vaurien ou que Benjamin est un chevalier. Jacob a noté : \"Jacob est un chevalier si et seulement si Benjamin est un vaurien\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Benjamin est un vaurien  \n(2) Jacob est un chevalier"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Victoire et Élisabeth. Selon Victoire, \"Élisabeth est une chevalière et Victoire est une chevalière\". Élisabeth a noté : \"Victoire est une chevalière si et seulement si Élisabeth est une chevalière\". Alors, qui est chevalier et qui est vaurien ?",
+        "solution_text_format": "(1) Victoire est une Chevalière  \n(2) Élisabeth est une Chevalière"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Sofia et Zoé. Sofia a déclaré : \"Zoé n'est pas une vaurienne\". Zoé a exprimé que Sofia est un chevalier et que Sofia est une vaurienne. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Sophie est une vaurienne  \n(2) Zoé est une vaurienne"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Charlotte et Zoé. Charlotte a remarqué : \"Zoé est une chevalière si et seulement si Zoé est une vaurienne\". Dans une déclaration de Zoé : \"Charlotte n'est pas une chevalière\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Charlotte est une vaurienne  \n(2) Zoé est une chevalière"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : William et Pénélope. Dans une déclaration de William : \"Pénélope est un vaurien si et seulement si Pénélope est un chevalier\". Dans une déclaration de Pénélope : \"William est un vaurien si et seulement si William est un chevalier\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) William est un vaurien  \n(2) Pénélope est une vaurienne"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Harper et Amélia. Harper a dit : \"Harper est un chevalier ou Amélia est une vaurienne.\" Comme l'a dit Amélia : \"Amélia est une chevalière si et seulement si Harper est un vaurien.\" Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Harper est un vaurien  \n(2) Amélia est une chevalière"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Logan et Jacques. Logan a commenté : \"Jacques est un vaurien et Jacques est un chevalier\". Jacques a remarqué : \"Logan est un vaurien ou Logan est un chevalier\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Logan est un vaurien  \n(2) Jacques est un chevalier"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Isabelle et Amélia. Isabelle a été entendue dire : \"Amélia est une chevalière si et seulement si Isabelle est une chevalière\". Amélia a affirmé : \"Isabelle est une vaurienne si et seulement si Amélia est une chevalière\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Isabelle est une vaurienne  \n(2) Amélia est une chevalière"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Jackson et Harper. Jackson a déclaré : \"Jackson est un chevalier et Harper est un chevalier\". Harper a dit que si Harper est un chevalier alors Jackson est un vaurien. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Jackson est un vaurien  \n(2) Harper est un chevalier"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Scarlett et Michel. Scarlett a été entendue dire : \"Michel est un chevalier et Michel est un vaurien\". \"Si Michel est un chevalier, alors Scarlett est un vaurien,\" a déclaré Michel. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Scarlett est une vaurienne  \n(2) Michel est un chevalier"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Sofia et Mason. \"Mason est un vaurien et Mason est un chevalier,\" a affirmé Sofia. Mason a déclaré : \"Sofia est une chevalière et Sofia est une vaurienne\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Sophie est une vaurienne  \n(2) Mason est un vaurien"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Grâce et Amélia. Dans une déclaration de Grâce : \"Amélia est un vaurien si et seulement si Grâce est un chevalier\". Amélia vous a dit que si Grâce est un chevalier alors Amélia est un chevalier. Alors qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Grâce est une Chevalière  \n(2) Amélia est une Vaurienne"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Grâce et Pénélope. Grâce a dit : \"Pénélope est une vaurienne.\" Pénélope a noté : \"Grâce est un chevalier ou Pénélope est un chevalier.\" Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Grâce est une vaurienne  \n(2) Pénélope est une chevalière"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Sébastien et Aurore. Sébastien a remarqué : \"Sébastien est un chevalier et Aurore est une vaurienne\". Aurore a dit : \"Sébastien est un chevalier ou Sébastien est un vaurien.\" Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Sébastien est un vaurien  \n(2) Aurore est une chevalière"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Aurore et Jacob. Aurore vous a dit que Jacob est un chevalier. Selon Jacob, \"Si Jacob est un chevalier alors Aurore est un chevalier\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Aurore est une Chevalière  \n(2) Jacob est un Chevalier"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Ava et Zoé. Ava a commenté : \"Ava est un chevalier si et seulement si Zoé est un chevalier\". Dans les mots de Zoé : \"Ava est une vaurienne si et seulement si Zoé est un chevalier\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Ava est une vaurienne  \n(2) Zoé est une chevalière"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des Chevaliers et des Vauriens. Les Chevaliers disent toujours la vérité, et les Vauriens mentent toujours. Vous rencontrez 2 habitants : Benjamin et Jacob. Dans les mots de Benjamin : \"Jacob est un Chevalier\". Jacob a été entendu dire : \"Jacob est un Chevalier si et seulement si Benjamin est un Vaurien\". Alors, qui est un Chevalier et qui est un Vaurien ?",
+        "solution_text_format": "(1) Benjamin est un vaurien  \n(2) Jacob est un vaurien"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Luc et Avery. Luc a affirmé : \"Luc est un chevalier ou Avery est un vaurien\". \"Si Avery est un chevalier alors Luc est un vaurien,\" a déclaré Avery. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Luc est un vaurien  \n(2) Avery est un chevalier"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Ella et Jacob. Ella a remarqué : \"Ella est une chevalière et Jacob est un chevalier\". Jacob a exprimé qu'Ella est une vaurienne si et seulement si Ella est une chevalière. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Ella est une vaurienne  \n(2) Jacob est un vaurien"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Henri et Aiden. Henri a exprimé qu'Aiden est un vaurien si et seulement si Henri est un chevalier. \"Henri n'est pas un chevalier,\" a déclaré Aiden. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Henri est un Chevalier  \n(2) Aiden est un Vaurien"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Owen et Luc. \"Owen est un chevalier ou Luc est un vaurien\" - Owen. Luc a déclaré : \"Si Luc est un chevalier alors Owen est un chevalier\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Owen est un Chevalier  \n(2) Luc est un Chevalier"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Lucas et David. Lucas a remarqué : \"David est un vaurien ou David est un chevalier\". David a exprimé que Lucas n'est pas un vaurien. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Lucas est un Chevalier  \n(2) David est un Chevalier"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Owen et Sébastien. Owen a commenté : \"Sébastien est un chevalier ou Sébastien est un vaurien\". Sébastien a exprimé qu'Owen est un vaurien ou Owen est un chevalier. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Owen est un Chevalier  \n(2) Sébastien est un Chevalier"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Zoé et Henri. Zoé a noté : \"Zoé est un chevalier si et seulement si Henri est un vaurien\". Henri a dit qu'Henri est un chevalier si et seulement si Zoé est un chevalier. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Zoé est une Chevalière  \n(2) Henri est un Vaurien"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Émilie et Benjamin. Émilie a déclaré : \"Benjamin n'est pas un chevalier\". Benjamin a noté : \"Émilie est un chevalier si et seulement si Émilie est une vaurienne\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Émilie est une Chevalière  \n(2) Benjamin est un Vaurien"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Lilie et Logan. Lilie vous a dit que Logan est un chevalier ou que Lilie est un chevalier. \"Lilie est un vaurien si et seulement si Logan est un chevalier,\" a affirmé Logan. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Lilie est une vaurienne  \n(2) Logan est un vaurien"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Avery et Ethan. Avery a affirmé : \"Si Ethan est un vaurien alors Ethan est un chevalier\". Ethan a noté : \"Avery est un vaurien ou Ethan est un chevalier\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Avery est un Chevalier  \n(2) Ethan est un Chevalier"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Amélia et Isabelle. Amélia vous a dit qu'Amélia est un chevalier si et seulement si Isabelle est un chevalier. Isabelle a déclaré : \"Amélia est un chevalier et Isabelle est un chevalier\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Amélia est une Chevalière  \n(2) Isabelle est une Chevalière"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Benjamin et Victoire. \"Victoire n'est pas une vaurienne,\" mentionna Benjamin. Victoire exprima que si Victoire est une chevalière alors Benjamin est un chevalier. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Benjamin est un Chevalier  \n(2) Victoire est une Chevalière"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Pénélope et Amélia. Comme l'a dit Pénélope, \"Si Pénélope est une chevalière alors Amélia est une chevalière\". Amélia a déclaré : \"Si Pénélope est une vaurienne alors Amélia est une chevalière\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Pénélope est une Chevalière  \n(2) Amélia est une Chevalière"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Charlotte et Sofia. Charlotte a commenté : \"Sofia est une vaurienne si et seulement si Charlotte est une chevalière\". Selon Sofia, \"Charlotte est une vaurienne si et seulement si Sofia est une chevalière\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Charlotte est une vaurienne  \n(2) Sophie est une vaurienne"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Lucas et Jacques. Lucas a affirmé : \"Lucas est un chevalier si et seulement si Jacques est un chevalier\". \"Si Jacques est un chevalier alors Lucas est un chevalier,\" a déclaré Jacques. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Lucas est un Chevalier  \n(2) Jacques est un Chevalier"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Avery et Liam. Avery a commenté : \"Liam n'est pas un chevalier\". Comme l'a dit Liam : \"Liam est un chevalier ou Avery est un chevalier\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Avery est un vaurien  \n(2) Liam est un chevalier"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Luc et Samuel. Luc a exprimé que Samuel est un vaurien si et seulement si Luc est un chevalier. Samuel vous a dit que Samuel est un chevalier si et seulement si Luc est un chevalier. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Luc est un Chevalier  \n(2) Samuel est un Vaurien"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Sofia et Jacques. \"Jacques est un chevalier si et seulement si Sofia est un chevalier,\" a déclaré Sofia. Jacques a affirmé : \"Sofia n'est pas une chevalière\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Sofia est une vaurienne  \n(2) Jacques est un chevalier"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Grâce et Élisabeth. Grâce a déclaré : \"Élisabeth n'est pas une vaurienne\". \"Grâce est une vaurienne et Grâce est une chevalière,\" a affirmé Élisabeth. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Grâce est une vaurienne  \n(2) Élisabeth est une vaurienne"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Scarlett et Abigaïl. Scarlett a déclaré : \"Abigaïl est une chevalière\". Selon Abigaïl, \"Scarlett est une vaurienne ou Scarlett est une chevalière\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Scarlett est une Chevalière  \n(2) Abigaïl est une Chevalière"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Ella et Évelyne. \"Évelyne est un vaurien ou Évelyne est une chevalière\" - Ella. Évelyne a affirmé : \"Ella n'est pas une chevalière\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Ella est une Chevalière  \n(2) Évelyne est une Vaurienne"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Owen et Aria. Owen a exprimé qu'Aria est un vaurien si et seulement si Aria est un chevalier. Aria a déclaré : \"Owen est un chevalier ou Owen est un vaurien\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Owen est un vaurien  \n(2) Aria est une chevalière"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Olivia et Isabelle. Olivia a remarqué : \"Isabelle est une vaurienne ou Isabelle est une chevalière\". Isabelle a dit qu'Olivia est une chevalière ou Isabelle est une chevalière. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Olivia est une Chevalière  \n(2) Isabelle est une Chevalière"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Aria et Élisabeth. Aria a remarqué : \"Élisabeth n'est pas une vaurienne\". Élisabeth a commenté : \"Aria est une vaurienne si et seulement si Élisabeth est une chevalière\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Aria est une vaurienne  \n(2) Élisabeth est une vaurienne"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Ethan et Olivia. Ethan vous a dit qu'Olivia est une vaurienne si et seulement si Olivia est une chevalière. \"Ethan est un vaurien ou Olivia est une chevalière,\" a affirmé Olivia. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Ethan est un vaurien  \n(2) Olivia est une chevalière"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Isabelle et Zoé. \"Si Zoé est une vaurienne alors Zoé est un chevalier,\" a déclaré Isabelle. Zoé a noté : \"Isabelle est une vaurienne et Zoé est un chevalier\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Isabelle est une vaurienne  \n(2) Zoé est une vaurienne"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Sofia et Scarlett. Sofia a exprimé que Scarlett est un chevalier ou que Scarlett est une vaurienne. \"Si Sofia est une vaurienne alors Sofia est un chevalier\" - Scarlett. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Sophie est une Chevalière  \n(2) Scarlett est une Chevalière"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : David et Mia. Comme l'a dit David, \"Mia est un vaurien ou David est un chevalier\". Mia vous a dit que David est un chevalier et que David est un vaurien. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) David est un Chevalier  \n(2) Mia est une Vaurienne"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Victoire et Jackson. Victoire a exprimé que Jackson est un chevalier si et seulement si Jackson est un vaurien. Jackson a exprimé que Victoire est un chevalier ou Victoire est une vaurienne. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Victoire est une vaurienne  \n(2) Jackson est un chevalier"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Zoé et Ella. Zoé a déclaré que Zoé est une chevalière et Ella est une chevalière. Selon Ella, \"Si Zoé est une chevalière alors Zoé est un vaurien\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Zoé est une vaurienne  \n(2) Ella est une chevalière"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des Chevaliers et des Vauriens. Les Chevaliers disent toujours la vérité, et les Vauriens mentent toujours. Vous rencontrez 2 habitants : Ava et Harper. Ava a noté : \"Harper est un Chevalier si et seulement si Ava est un Chevalier\". Selon Harper, \"Ava est un Chevalier si et seulement si Harper est un Chevalier\". Alors, qui est un Chevalier et qui est un Vaurien ?",
+        "solution_text_format": "(1) Ava est une Chevalière  \n(2) Harper est un Chevalier"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Ella et Aria. Ella a remarqué : \"Aria est un chevalier si et seulement si Aria est une vaurienne\". Aria a affirmé : \"Ella est un chevalier et Ella est une vaurienne\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Ella est une vaurienne  \n(2) Aria est une vaurienne"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des Chevaliers et des Vauriens. Les Chevaliers disent toujours la vérité, et les Vauriens mentent toujours. Vous rencontrez 2 habitants : William et Henri. Comme l'a dit William, \"William est un Chevalier si et seulement si Henri est un Vaurien\". Henri a été entendu dire : \"Si William est un Vaurien alors William est un Chevalier\". Alors, qui est un Chevalier et qui est un Vaurien ?",
+        "solution_text_format": "(1) William est un vaurien  \n(2) Henri est un vaurien"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : William et Ava. Comme l'a dit William, \"Ava est un vaurien ou Ava est une chevalière\". \"Si William est un chevalier alors William est un vaurien\" - Ava. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) William est un Chevalier  \n(2) Ava est une Vaurienne"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Olivier et Jacob. Olivier a commenté : \"Olivier est un chevalier et Jacob est un vaurien\". Jacob a remarqué : \"Olivier est un chevalier si et seulement si Jacob est un chevalier\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Olivier est un Chevalier  \n(2) Jacob est un Vaurien"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Mason et William. Mason vous a dit que William est un vaurien. Dans une déclaration de William : \"Mason est un chevalier et William est un chevalier\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Mason est un Chevalier  \n(2) William est un Vaurien"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Aria et Aurore. \"Aurore est une chevalière\" - Aria. \"Aria est une vaurienne et Aria est une chevalière,\" a déclaré Aurore. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Aria est une vaurienne  \n(2) Aurore est une vaurienne"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Olivier et Évelyne. Olivier a déclaré : \"Si Olivier est un chevalier alors Évelyne est un chevalier\". \"Olivier est un chevalier et Évelyne est un chevalier\" - Évelyne. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Olivier est un Chevalier  \n(2) Évelyne est une Chevalière"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Sofia et Évelyne. \"Évelyne est un chevalier ou Évelyne est une vaurienne\" - Sofia. Dans une déclaration d'Évelyne : \"Évelyne est un chevalier et Sofia est une vaurienne\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Sofia est une Chevalière  \n(2) Évelyne est une Vaurienne"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Jackson et Emma. Dans une déclaration de Jackson : \"Jackson est un chevalier si et seulement si Emma est une chevalière\". \"Emma est une chevalière si et seulement si Jackson est un chevalier\" - Emma. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Jackson est un Chevalier  \n(2) Emma est une Chevalière"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Émilie et Mason. Émilie a déclaré que Mason est un chevalier et qu'Émilie est un chevalier. Mason a affirmé : \"Si Émilie est un chevalier alors Émilie est un vaurien\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Émilie est une vaurienne  \n(2) Mason est un chevalier"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Logan et Charlotte. Comme l'a dit Logan, \"Charlotte est un vaurien si et seulement si Charlotte est un chevalier\". Charlotte a noté, \"Si Logan est un chevalier alors Logan est un vaurien\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Logan est un vaurien  \n(2) Charlotte est une chevalière"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Harper et Henri. \"Si Henri est un vaurien alors Harper est un chevalier\" - Harper. Henri a dit : \"Henri est un chevalier si et seulement si Harper est un vaurien.\" Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Harper est un vaurien  \n(2) Henri est un vaurien"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Emma et Évelyne. Emma a déclaré : \"Évelyne est une chevalière si et seulement si Emma est une chevalière\". Évelyne a commenté : \"Si Emma est une vaurienne alors Emma est une chevalière\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Emma est une Chevalière  \n(2) Évelyne est une Chevalière"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Chloé et Ethan. Chloé a dit qu'Ethan est un chevalier ou qu'Ethan est un vaurien. Dans les mots d'Ethan : \"Chloé est une vaurienne et Ethan est un chevalier\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Chloé est une Chevalière  \n(2) Ethan est un Vaurien"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Élisabeth et Michel. Élisabeth vous a dit que Michel est un vaurien et que Michel est un chevalier. Comme l'a dit Michel, \"Élisabeth n'est pas une vaurienne\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Élisabeth est une vaurienne  \n(2) Michel est un vaurien"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Chloé et Grâce. Chloé a été entendue dire : \"Chloé est un chevalier et Grâce est une vaurienne\". \"Chloé est une vaurienne ou Chloé est un chevalier\" - Grâce. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Chloé est une vaurienne  \n(2) Grâce est une chevalière"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Logan et Émilie. Logan a exprimé que Logan est un chevalier ou Émilie est une vaurienne. Émilie a remarqué : \"Logan est un vaurien si et seulement si Logan est un chevalier\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Logan est un Chevalier  \n(2) Émilie est une Vaurienne"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Ella et Logan. Ella a affirmé : \"Ella est une chevalière si et seulement si Logan est un chevalier\". Dans les mots de Logan : \"Logan est un chevalier et Ella est une vaurienne\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Ella est une vaurienne  \n(2) Logan est un chevalier"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Sofia et Ella. Dans les mots de Sofia : \"Ella est un vaurien si et seulement si Ella est une chevalière\". Ella vous a dit que si Sofia est un vaurien alors Sofia est une chevalière. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Sophie est une vaurienne  \n(2) Ella est une vaurienne"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Noé et Ava. Noé a commenté : \"Ava n'est pas une chevalière\". Ava a dit : \"Noé est un chevalier ou Noé est un vaurien.\" Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Noé est un vaurien  \n(2) Ava est une chevalière"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Mason et Emma. Mason a été entendu dire : \"Mason est un chevalier ou Emma est une vaurienne\". Emma a noté : \"Si Mason est un vaurien alors Mason est un chevalier\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Mason est un Chevalier  \n(2) Emma est une Chevalière"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Riley et Ethan. Riley a noté : \"Ethan est un vaurien si et seulement si Riley est un chevalier\". \"Riley est un chevalier si et seulement si Ethan est un chevalier,\" a mentionné Ethan. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Riley est un Chevalier  \n(2) Ethan est un Vaurien"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Jacques et Scarlett. Jacques a remarqué : \"Scarlett est une vaurienne ou Jacques est un chevalier\". Selon Scarlett, \"Si Jacques est un vaurien alors Jacques est un chevalier\". Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Jacques est un Chevalier  \n(2) Scarlett est un Chevalier"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Olivier et Emma. Comme l'a dit Olivier, \"Olivier est un chevalier ou Emma est une vaurienne\". \"Olivier est un chevalier si et seulement si Olivier est un vaurien,\" a déclaré Emma. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Olivier est un Chevalier  \n(2) Emma est une Vaurienne"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Emma et Riley. Emma a remarqué : \"Si Emma est une chevalière alors Riley est un chevalier\". Riley vous a dit que si Emma est une vaurienne alors Emma est une chevalière. Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Emma est une Chevalière  \n(2) Riley est un Chevalier"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des Chevaliers et des Vauriens. Les Chevaliers disent toujours la vérité, et les Vauriens mentent toujours. Vous rencontrez 2 habitants : Liam et Samuel. Liam a dit : \"Si Samuel est un Vaurien alors Samuel est un Chevalier.\" \"Liam est un Chevalier si et seulement si Liam est un Vaurien,\" a mentionné Samuel. Alors, qui est un Chevalier et qui est un Vaurien ?",
+        "solution_text_format": "(1) Liam est un vaurien  \n(2) Samuel est un vaurien"
+    },
+    {
+        "quiz": "Une île très spéciale est habitée uniquement par des chevaliers et des vauriens. Les chevaliers disent toujours la vérité, et les vauriens mentent toujours. Vous rencontrez 2 habitants : Jacob et Olivia. Jacob a dit : \"Jacob est un chevalier ou Olivia est une chevalière.\" Selon Olivia, \"Si Olivia est une chevalière alors Jacob est un chevalier.\" Alors, qui est un chevalier et qui est un vaurien ?",
+        "solution_text_format": "(1) Jacob est un Chevalier  \n(2) Olivia est une Chevalière"
+    }
+]

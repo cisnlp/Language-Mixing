@@ -1,0 +1,402 @@
+[
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: David, Isabella, Evelyn, Penelope, Aurora, and Luke. David said, \"Isabella is a knight or Evelyn is a knight.\" Isabella commented, \"David is a knight and Penelope is a knight\". According to Evelyn, \"Isabella is a knight if and only if Luke is a knave\". Penelope commented, \"If Luke is a knave then Luke is a knight\". In Aurora's words: \"Luke is a knight if and only if Aurora is a knight\". Luke commented, \"Luke is a knight if and only if Aurora is a knight\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) David is a knight\n(2) Isabella is a knight\n(3) Evelyn is a knave\n(4) Penelope is a knight\n(5) Aurora is a knight\n(6) Luke is a knight"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Isabella, Henry, Michael, Mason, Daniel, and Zoey. In Isabella's words: \"Daniel is not a knave\". In Henry's words: \"Michael is a knight and Daniel is a knave\". According to Michael, \"Daniel is a knave or Isabella is a knight\". \"Michael is a knight or Michael is a knave,\" Mason mentioned. \"Daniel is a knight if and only if Isabella is a knave\" - Daniel. In Zoey's words: \"Daniel is a knave if and only if Isabella is a knave\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Isabella is a knave\n(2) Henry is a knight\n(3) Michael is a knight\n(4) Mason is a knight\n(5) Daniel is a knave\n(6) Zoey is a knight"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: David, Benjamin, Jackson, James, Sebastian, and Jack. As David put it, \"James is a knave and Jack is a knight\". Benjamin noted, \"James is a knave if and only if Jack is a knight\". Jackson said, \"Jack is a knight.\" James noted, \"David is a knight\". \"James is a knight if and only if Jackson is a knave,\" Sebastian mentioned. \"Sebastian is not a knave,\" Jack mentioned. So who is a knight and who is a knave?",
+        "solution_text_format": "(1) David is a knave\n(2) Benjamin is a knave\n(3) Jackson is a knave\n(4) James is a knave\n(5) Sebastian is a knave\n(6) Jack is a knave"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: David, Ava, Scarlett, Daniel, James, and Lily. David expressed that Lily is not a knight. \"Scarlett is a knave or David is a knave,\" Ava declared. In Scarlett's words: \"Ava is a knight\". As Daniel put it, \"If Ava is a knave then Lily is a knave\". James expressed that Lily is a knight if and only if David is a knave. Lily said, \"If James is a knight then Lily is a knight.\" So who is a knight and who is a knave?",
+        "solution_text_format": "(1) David is a knave\n(2) Ava is a knight\n(3) Scarlett is a knight\n(4) Daniel is a knight\n(5) James is a knight\n(6) Lily is a knight"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Samuel, Liam, Logan, Joseph, Ethan, and William. \"Joseph is a knave,\" Samuel declared. Liam remarked, \"Ethan is a knight if and only if Ethan is a knave\". Logan was heard saying, \"If Joseph is a knave then Samuel is a knave\". Joseph commented, \"Liam is a knave\". As Ethan put it, \"Joseph is a knave and William is a knight\". As William put it, \"Samuel is not a knight\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Samuel is a knave\n(2) Liam is a knave\n(3) Logan is a knight\n(4) Joseph is a knight\n(5) Ethan is a knave\n(6) William is a knight"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Sofia, David, Ella, Elizabeth, Owen, and Grace. Sofia said that Owen is a knight or Ella is a knight. David was heard saying, \"If Sofia is a knight then Elizabeth is a knave\". Ella was heard saying, \"David is a knight\". Elizabeth said that If Grace is a knight then Owen is a knave. According to Owen, \"Grace is not a knight\". Grace said, \"If Ella is a knave then Grace is a knight.\" So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Sofia is a knight\n(2) David is a knave\n(3) Ella is a knave\n(4) Elizabeth is a knight\n(5) Owen is a knight\n(6) Grace is a knave"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Mia, Avery, Sophia, Benjamin, Olivia, and Aurora. \"Sophia is a knight\" - Mia. Avery stated, \"Sophia is a knight or Sophia is a knave\". Sophia stated, \"Olivia is a knave\". \"Mia is not a knave,\" Benjamin mentioned. Olivia said, \"Avery is a knave and Aurora is a knave.\" \"Benjamin is a knave and Sophia is a knight,\" Aurora mentioned. So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Mia is a knight\n(2) Avery is a knight\n(3) Sophia is a knight\n(4) Benjamin is a knight\n(5) Olivia is a knave\n(6) Aurora is a knave"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Liam, Grace, Aiden, Luke, Aurora, and Elizabeth. \"Grace is a knave or Elizabeth is a knight,\" Liam declared. Grace said, \"Grace is a knight if and only if Luke is a knave.\" \"Aiden is a knight if and only if Liam is a knight,\" Aiden mentioned. In a statement by Luke: \"Aiden is a knight if and only if Grace is a knight\". Aurora said, \"Elizabeth is a knave.\" Elizabeth noted, \"Aiden is not a knave\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Liam is a knight\n(2) Grace is a knave\n(3) Aiden is a knight\n(4) Luke is a knave\n(5) Aurora is a knave\n(6) Elizabeth is a knight"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Mia, Ethan, Michael, William, Amelia, and Avery. In a statement by Mia: \"William is not a knave\". \"Amelia is a knave and Michael is a knave,\" Ethan mentioned. As Michael put it, \"William is a knave or Avery is a knave\". William noted, \"Mia is a knave and Mia is a knight\". Amelia expressed that William is a knave and William is a knight. \"Amelia is a knave if and only if Mia is a knight,\" Avery claimed. So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Mia is a knave\n(2) Ethan is a knave\n(3) Michael is a knight\n(4) William is a knave\n(5) Amelia is a knave\n(6) Avery is a knave"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Mason, Mia, William, Ella, Sophia, and Avery. Mason asserted: \"If Avery is a knight then William is a knave\". Mia was heard saying, \"If Ella is a knave then William is a knight\". In William's words: \"Ella is not a knave\". Ella expressed that Avery is a knave if and only if Mia is a knave. \"Ella is a knight if and only if Mason is a knight\" - Sophia. \"Avery is a knight and Mason is a knave\" - Avery. So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Mason is a knave\n(2) Mia is a knight\n(3) William is a knight\n(4) Ella is a knight\n(5) Sophia is a knave\n(6) Avery is a knight"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Mia, Aurora, Daniel, Benjamin, Riley, and Amelia. In Mia's words: \"If Riley is a knight then Riley is a knave\". \"Riley is a knave and Benjamin is a knave\" - Aurora. \"Riley is a knight and Daniel is a knight,\" Daniel claimed. Benjamin asserted: \"Daniel is a knave if and only if Riley is a knight\". \"Aurora is a knight if and only if Aurora is a knave,\" Riley claimed. Amelia expressed that Mia is a knight and Daniel is a knight. So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Mia is a knight\n(2) Aurora is a knight\n(3) Daniel is a knave\n(4) Benjamin is a knave\n(5) Riley is a knave\n(6) Amelia is a knave"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Zoey, Victoria, Owen, Daniel, Aurora, and Aria. Zoey expressed that Daniel is a knight or Owen is a knight. Victoria commented, \"Aurora is not a knave\". Owen stated, \"Zoey is not a knave\". \"Aria is a knave or Victoria is a knave\" - Daniel. Aurora commented, \"Aria is a knave if and only if Zoey is a knave\". According to Aria, \"Daniel is a knight and Owen is a knave\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Zoey is a knight\n(2) Victoria is a knave\n(3) Owen is a knight\n(4) Daniel is a knight\n(5) Aurora is a knave\n(6) Aria is a knave"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Mia, Owen, Jackson, Amelia, Samuel, and Logan. According to Mia, \"Amelia is a knight\". Owen expressed that Jackson is a knight. \"If Samuel is a knight then Logan is a knave,\" Jackson declared. \"Logan is a knave\" - Amelia. Samuel was heard saying, \"Owen is a knight if and only if Amelia is a knave\". Logan said that Amelia is a knight and Logan is a knight. So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Mia is a knight\n(2) Owen is a knight\n(3) Jackson is a knight\n(4) Amelia is a knight\n(5) Samuel is a knave\n(6) Logan is a knave"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Samuel, James, Harper, Scarlett, Logan, and Charlotte. \"Logan is a knight or Logan is a knave,\" Samuel mentioned. James said that Charlotte is a knight if and only if Charlotte is a knave. Harper said that If Samuel is a knave then Charlotte is a knight. Scarlett stated, \"Logan is a knave or Scarlett is a knight\". Logan commented, \"Charlotte is a knave\". \"Harper is a knight and Scarlett is a knave,\" Charlotte mentioned. So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Samuel is a knight\n(2) James is a knave\n(3) Harper is a knight\n(4) Scarlett is a knight\n(5) Logan is a knight\n(6) Charlotte is a knave"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Matthew, Ella, Jackson, Mason, Scarlett, and Luke. Matthew noted, \"Mason is a knave\". \"Matthew is a knight or Luke is a knight\" - Ella. Jackson told you that Mason is not a knave. Mason asserted: \"Ella is a knight or Luke is a knave\". In a statement by Scarlett: \"If Matthew is a knave then Mason is a knight\". According to Luke, \"If Scarlett is a knave then Mason is a knight\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Matthew is a knave\n(2) Ella is a knight\n(3) Jackson is a knight\n(4) Mason is a knight\n(5) Scarlett is a knight\n(6) Luke is a knight"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Avery, Emma, Amelia, Zoey, Oliver, and Grace. In a statement by Avery: \"Zoey is a knight if and only if Avery is a knight\". Emma said that If Zoey is a knight then Oliver is a knave. \"Grace is a knave or Emma is a knight\" - Amelia. Zoey expressed that Oliver is a knave or Avery is a knave. \"Avery is a knight\" - Oliver. Grace noted, \"Oliver is a knave if and only if Emma is a knave\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Avery is a knave\n(2) Emma is a knight\n(3) Amelia is a knight\n(4) Zoey is a knight\n(5) Oliver is a knave\n(6) Grace is a knave"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Liam, Sofia, Sebastian, Aurora, David, and Oliver. Liam remarked, \"If Sebastian is a knave then Sofia is a knave\". Sofia was heard saying, \"Aurora is not a knave\". \"Aurora is a knight or Sebastian is a knight,\" Sebastian mentioned. Aurora said, \"Oliver is a knave if and only if Liam is a knave.\" In David's words: \"Aurora is a knight if and only if Sebastian is a knave\". \"If Sofia is a knight then David is a knave\" - Oliver. So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Liam is a knight\n(2) Sofia is a knight\n(3) Sebastian is a knight\n(4) Aurora is a knight\n(5) David is a knave\n(6) Oliver is a knight"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Scarlett, Jacob, Benjamin, Charlotte, David, and Zoey. In Scarlett's words: \"Jacob is a knight or Charlotte is a knight\". \"If Charlotte is a knight then Zoey is a knave,\" Jacob claimed. Benjamin remarked, \"Jacob is a knave if and only if David is a knave\". In Charlotte's words: \"Jacob is a knight and David is a knave\". David told you that If Jacob is a knight then Zoey is a knave. As Zoey put it, \"Jacob is not a knight\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Scarlett is a knight\n(2) Jacob is a knight\n(3) Benjamin is a knight\n(4) Charlotte is a knave\n(5) David is a knight\n(6) Zoey is a knave"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Oliver, Henry, Luke, Ella, Benjamin, and Liam. \"Benjamin is a knave if and only if Ella is a knight\" - Oliver. As Henry put it, \"Oliver is a knave if and only if Benjamin is a knave\". Luke told you that Benjamin is a knave and Ella is a knave. Ella expressed that Henry is a knight and Benjamin is a knight. Benjamin remarked, \"Benjamin is a knight or Liam is a knight\". Liam remarked, \"Benjamin is a knave and Henry is a knave\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Oliver is a knave\n(2) Henry is a knight\n(3) Luke is a knight\n(4) Ella is a knave\n(5) Benjamin is a knave\n(6) Liam is a knave"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: David, Charlotte, Aria, Amelia, Grace, and Jackson. David told you that Charlotte is a knight and Amelia is a knave. Charlotte expressed that Jackson is a knave if and only if David is a knight. In Aria's words: \"Amelia is a knight\". Amelia stated, \"David is a knave\". Grace commented, \"Jackson is a knight\". In Jackson's words: \"If Amelia is a knave then Aria is a knave\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) David is a knave\n(2) Charlotte is a knight\n(3) Aria is a knight\n(4) Amelia is a knight\n(5) Grace is a knight\n(6) Jackson is a knight"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Luke, Michael, Elizabeth, Samuel, Charlotte, and Aurora. In a statement by Luke: \"If Elizabeth is a knave then Samuel is a knave\". Michael noted, \"If Samuel is a knight then Luke is a knight\". Elizabeth told you that Samuel is a knave. Samuel asserted: \"Aurora is a knight or Luke is a knave\". Charlotte said that Aurora is a knight if and only if Elizabeth is a knight. Aurora was heard saying, \"If Elizabeth is a knight then Samuel is a knave\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Luke is a knave\n(2) Michael is a knave\n(3) Elizabeth is a knave\n(4) Samuel is a knight\n(5) Charlotte is a knave\n(6) Aurora is a knight"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Jackson, Olivia, Isabella, Sebastian, Jacob, and Daniel. \"Jacob is a knave if and only if Olivia is a knave,\" Jackson mentioned. Olivia said, \"Isabella is not a knave.\" \"Daniel is a knight or Sebastian is a knight\" - Isabella. As Sebastian put it, \"Daniel is a knight if and only if Jacob is a knave\". In Jacob's words: \"Isabella is a knight and Sebastian is a knight\". \"Isabella is a knight and Olivia is a knight,\" Daniel mentioned. So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Jackson is a knight\n(2) Olivia is a knave\n(3) Isabella is a knave\n(4) Sebastian is a knave\n(5) Jacob is a knave\n(6) Daniel is a knave"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Ethan, Oliver, Amelia, Charlotte, Michael, and David. Ethan said that Oliver is a knave and David is a knight. Oliver told you that David is a knave or Amelia is a knight. Amelia said that David is a knight. Charlotte said that Amelia is a knight or Oliver is a knave. Michael was heard saying, \"David is not a knave\". David expressed that Amelia is a knight if and only if Charlotte is a knight. So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Ethan is a knave\n(2) Oliver is a knight\n(3) Amelia is a knight\n(4) Charlotte is a knight\n(5) Michael is a knight\n(6) David is a knight"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Amelia, Liam, Oliver, Michael, William, and Ava. Amelia noted, \"Ava is a knave or Michael is a knave\". \"William is a knight\" - Liam. \"Ava is a knave and Michael is a knave,\" Oliver claimed. As Michael put it, \"Amelia is not a knave\". William told you that Oliver is a knight and Michael is a knave. Ava remarked, \"Oliver is a knight or Amelia is a knave\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Amelia is a knight\n(2) Liam is a knave\n(3) Oliver is a knave\n(4) Michael is a knight\n(5) William is a knave\n(6) Ava is a knave"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Jack, Emma, Avery, Ethan, James, and Lucas. Jack said that If James is a knave then Emma is a knave. Emma commented, \"James is a knave\". According to Avery, \"Lucas is a knave or Jack is a knight\". \"Jack is a knight\" - Ethan. James said, \"Ethan is a knight or Emma is a knight.\" Lucas said that Avery is a knave or Ethan is a knave. So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Jack is a knight\n(2) Emma is a knave\n(3) Avery is a knight\n(4) Ethan is a knight\n(5) James is a knight\n(6) Lucas is a knave"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Emma, Abigail, Victoria, Evelyn, Avery, and Ella. Emma told you that Avery is a knave. Abigail noted, \"Avery is a knave if and only if Evelyn is a knave\". In Victoria's words: \"Ella is a knave if and only if Avery is a knight\". Evelyn was heard saying, \"Avery is a knave and Avery is a knight\". Avery remarked, \"Victoria is a knave\". As Ella put it, \"Avery is a knave\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Emma is a knight\n(2) Abigail is a knight\n(3) Victoria is a knight\n(4) Evelyn is a knave\n(5) Avery is a knave\n(6) Ella is a knight"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Daniel, Emma, Michael, Owen, Liam, and Avery. Daniel commented, \"Michael is a knave and Liam is a knave\". \"Daniel is a knave or Michael is a knight,\" Emma declared. \"Daniel is a knave and Michael is a knight,\" Michael claimed. Owen asserted: \"Daniel is not a knave\". Liam asserted: \"Daniel is a knight\". \"Liam is a knight and Owen is a knave\" - Avery. So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Daniel is a knave\n(2) Emma is a knight\n(3) Michael is a knight\n(4) Owen is a knave\n(5) Liam is a knave\n(6) Avery is a knave"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Matthew, David, Lucas, Owen, Amelia, and Joseph. According to Matthew, \"Matthew is a knight if and only if Joseph is a knave\". David stated, \"Joseph is a knave if and only if Amelia is a knave\". Lucas stated, \"Owen is a knight or Amelia is a knave\". \"If Matthew is a knight then Amelia is a knave,\" Owen mentioned. \"Matthew is a knight and Owen is a knight,\" Amelia mentioned. Joseph said that Lucas is a knave or Amelia is a knight. So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Matthew is a knave\n(2) David is a knight\n(3) Lucas is a knight\n(4) Owen is a knight\n(5) Amelia is a knave\n(6) Joseph is a knave"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Emily, Chloe, Luke, Penelope, Joseph, and Mason. Emily commented, \"Luke is not a knight\". Chloe remarked, \"Penelope is a knave if and only if Penelope is a knight\". Luke said that Luke is a knight if and only if Emily is a knave. In Penelope's words: \"Mason is a knight if and only if Emily is a knight\". \"Emily is a knave,\" Joseph declared. According to Mason, \"Joseph is not a knave\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Emily is a knave\n(2) Chloe is a knave\n(3) Luke is a knight\n(4) Penelope is a knave\n(5) Joseph is a knight\n(6) Mason is a knight"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Victoria, Sofia, Harper, Jack, Riley, and Daniel. Victoria told you that If Harper is a knave then Sofia is a knight. Sofia remarked, \"Victoria is a knave\". \"Daniel is a knave or Jack is a knave,\" Harper claimed. Jack asserted: \"Harper is a knave if and only if Sofia is a knave\". Riley told you that Victoria is a knave if and only if Sofia is a knave. \"Jack is a knave or Harper is a knave,\" Daniel claimed. So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Victoria is a knight\n(2) Sofia is a knave\n(3) Harper is a knight\n(4) Jack is a knave\n(5) Riley is a knave\n(6) Daniel is a knight"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Isabella, Victoria, Aurora, David, Oliver, and Lily. \"Lily is a knave and Aurora is a knight,\" Isabella claimed. \"Isabella is not a knight,\" Victoria declared. As Aurora put it, \"David is a knave and Lily is a knight\". \"Lily is not a knight,\" David claimed. Oliver noted, \"Lily is a knight if and only if David is a knight\". Lily was heard saying, \"Oliver is not a knight\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Isabella is a knave\n(2) Victoria is a knight\n(3) Aurora is a knight\n(4) David is a knave\n(5) Oliver is a knave\n(6) Lily is a knight"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Harper, Michael, Olivia, Emily, Alexander, and Isabella. Harper was heard saying, \"Alexander is a knave if and only if Michael is a knight\". Michael stated, \"Isabella is a knight\". Olivia said, \"Emily is a knave if and only if Emily is a knight.\" Emily asserted: \"Michael is not a knave\". In Alexander's words: \"Michael is not a knight\". Isabella commented, \"If Michael is a knave then Alexander is a knight\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Harper is a knight\n(2) Michael is a knight\n(3) Olivia is a knave\n(4) Emily is a knight\n(5) Alexander is a knave\n(6) Isabella is a knight"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Samuel, Benjamin, Jack, David, Grace, and Ella. Samuel told you that Ella is a knight if and only if Benjamin is a knave. As Benjamin put it, \"Benjamin is a knight\". According to Jack, \"Grace is a knight if and only if Samuel is a knave\". David remarked, \"Samuel is a knight and Jack is a knave\". \"Benjamin is not a knave,\" Grace mentioned. In Ella's words: \"Benjamin is a knave or Samuel is a knight\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Samuel is a knight\n(2) Benjamin is a knave\n(3) Jack is a knight\n(4) David is a knave\n(5) Grace is a knave\n(6) Ella is a knight"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Emma, Logan, Olivia, Evelyn, Ethan, and Owen. In a statement by Emma: \"Logan is a knight or Olivia is a knave\". According to Logan, \"Ethan is a knave or Owen is a knave\". Olivia expressed that Owen is a knave or Logan is a knave. Evelyn stated, \"Logan is a knight\". \"If Olivia is a knave then Owen is a knave,\" Ethan claimed. \"If Olivia is a knave then Emma is a knave,\" Owen declared. So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Emma is a knave\n(2) Logan is a knave\n(3) Olivia is a knight\n(4) Evelyn is a knave\n(5) Ethan is a knight\n(6) Owen is a knight"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Isabella, Chloe, Sebastian, Owen, Joseph, and Amelia. Isabella told you that Owen is a knave if and only if Chloe is a knight. Chloe asserted: \"Amelia is a knight or Sebastian is a knight\". Sebastian expressed that Amelia is a knave and Chloe is a knave. Owen expressed that Isabella is a knave if and only if Joseph is a knave. Joseph was heard saying, \"Chloe is a knight if and only if Chloe is a knave\". Amelia commented, \"Joseph is a knight if and only if Owen is a knight\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Isabella is a knight\n(2) Chloe is a knight\n(3) Sebastian is a knave\n(4) Owen is a knave\n(5) Joseph is a knave\n(6) Amelia is a knight"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Michael, Lily, Charlotte, Aria, Penelope, and Evelyn. In Michael's words: \"If Charlotte is a knight then Lily is a knave\". Lily expressed that Charlotte is a knave and Aria is a knight. According to Charlotte, \"Evelyn is a knight\". \"Charlotte is a knight if and only if Evelyn is a knight,\" Aria declared. As Penelope put it, \"Charlotte is a knave\". Evelyn said, \"Michael is a knave and Lily is a knave.\" So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Michael is a knight\n(2) Lily is a knight\n(3) Charlotte is a knave\n(4) Aria is a knight\n(5) Penelope is a knight\n(6) Evelyn is a knave"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Noah, Isabella, Riley, Sebastian, Alexander, and Lily. Noah remarked, \"Alexander is a knave and Isabella is a knave\". Isabella commented, \"If Noah is a knight then Noah is a knave\". Riley expressed that Alexander is not a knight. Sebastian said, \"Lily is a knight.\" Alexander stated, \"Isabella is a knave\". Lily said that Sebastian is a knight and Sebastian is a knave. So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Noah is a knave\n(2) Isabella is a knight\n(3) Riley is a knight\n(4) Sebastian is a knave\n(5) Alexander is a knave\n(6) Lily is a knave"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Jackson, Aiden, Aria, Logan, Charlotte, and Harper. Jackson said, \"If Logan is a knave then Charlotte is a knight.\" According to Aiden, \"Logan is a knight or Jackson is a knave\". \"Jackson is a knight if and only if Aiden is a knave,\" Aria declared. As Logan put it, \"Jackson is a knave and Aiden is a knight\". In Charlotte's words: \"Aria is a knight if and only if Jackson is a knight\". Harper expressed that Aria is a knave if and only if Jackson is a knave. So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Jackson is a knight\n(2) Aiden is a knave\n(3) Aria is a knight\n(4) Logan is a knave\n(5) Charlotte is a knight\n(6) Harper is a knight"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Emily, Lucas, Aiden, David, Luke, and Daniel. Emily was heard saying, \"David is a knave if and only if Aiden is a knight\". Lucas expressed that If Aiden is a knave then Luke is a knight. Aiden told you that Aiden is a knight or Emily is a knave. David told you that David is a knight if and only if Luke is a knight. \"David is a knave,\" Luke mentioned. \"David is a knave if and only if Lucas is a knight,\" Daniel claimed. So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Emily is a knight\n(2) Lucas is a knight\n(3) Aiden is a knight\n(4) David is a knave\n(5) Luke is a knight\n(6) Daniel is a knight"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Scarlett, Grace, Mason, Mia, Charlotte, and Riley. Scarlett stated, \"Mia is a knight if and only if Charlotte is a knave\". Grace noted, \"Charlotte is a knave and Scarlett is a knight\". In a statement by Mason: \"Mia is not a knight\". Mia said, \"Charlotte is a knight or Mason is a knave.\" Charlotte commented, \"Mia is a knight and Scarlett is a knight\". According to Riley, \"Mia is a knave or Mason is a knight\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Scarlett is a knave\n(2) Grace is a knave\n(3) Mason is a knight\n(4) Mia is a knave\n(5) Charlotte is a knave\n(6) Riley is a knight"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Oliver, Logan, Elizabeth, Mia, Michael, and Ethan. Oliver stated, \"Elizabeth is a knave if and only if Mia is a knave\". In Logan's words: \"Mia is a knave and Michael is a knight\". According to Elizabeth, \"Logan is a knight or Michael is a knave\". Mia commented, \"Elizabeth is a knave\". According to Michael, \"If Michael is a knight then Logan is a knave\". Ethan expressed that If Elizabeth is a knight then Michael is a knave. So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Oliver is a knave\n(2) Logan is a knave\n(3) Elizabeth is a knave\n(4) Mia is a knight\n(5) Michael is a knight\n(6) Ethan is a knight"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Noah, Harper, Jackson, Aria, Luke, and Penelope. In Noah's words: \"Luke is a knight and Noah is a knight\". Harper noted, \"Luke is a knave if and only if Penelope is a knave\". Jackson told you that If Harper is a knave then Luke is a knave. As Aria put it, \"If Harper is a knave then Jackson is a knight\". \"Penelope is a knave if and only if Jackson is a knight,\" Luke claimed. In Penelope's words: \"Aria is a knight if and only if Harper is a knave\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Noah is a knave\n(2) Harper is a knave\n(3) Jackson is a knight\n(4) Aria is a knight\n(5) Luke is a knave\n(6) Penelope is a knight"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Jack, Penelope, Daniel, Alexander, Ava, and Mason. In a statement by Jack: \"Daniel is a knave or Mason is a knight\". Penelope stated, \"Alexander is a knave if and only if Penelope is a knight\". Daniel was heard saying, \"Mason is a knave and Ava is a knight\". Alexander noted, \"Penelope is a knight or Jack is a knave\". As Ava put it, \"Alexander is a knight and Penelope is a knight\". Mason said that Ava is a knight or Jack is a knave. So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Jack is a knight\n(2) Penelope is a knave\n(3) Daniel is a knave\n(4) Alexander is a knave\n(5) Ava is a knave\n(6) Mason is a knave"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: James, Grace, Owen, Evelyn, David, and Charlotte. In a statement by James: \"Charlotte is a knave\". In Grace's words: \"Owen is a knight or David is a knight\". Owen commented, \"If Evelyn is a knave then James is a knave\". Evelyn asserted: \"Evelyn is a knight and James is a knave\". David expressed that Charlotte is a knight. Charlotte noted, \"Grace is a knight if and only if Owen is a knave\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) James is a knight\n(2) Grace is a knave\n(3) Owen is a knave\n(4) Evelyn is a knave\n(5) David is a knave\n(6) Charlotte is a knave"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Elizabeth, Harper, Emma, Sebastian, Luke, and Sofia. Elizabeth commented, \"Luke is a knave\". In a statement by Harper: \"Luke is not a knight\". Emma asserted: \"Harper is a knave or Sebastian is a knave\". \"Emma is a knave and Sebastian is a knight,\" Sebastian claimed. In a statement by Luke: \"Elizabeth is a knave or Sofia is a knave\". In a statement by Sofia: \"Elizabeth is a knight if and only if Elizabeth is a knave\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Elizabeth is a knave\n(2) Harper is a knave\n(3) Emma is a knight\n(4) Sebastian is a knave\n(5) Luke is a knight\n(6) Sofia is a knave"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Aria, Penelope, Ella, Lily, Ethan, and Grace. Aria asserted: \"If Grace is a knight then Lily is a knight\". \"If Aria is a knave then Ella is a knight,\" Penelope mentioned. Ella remarked, \"Grace is a knight if and only if Ethan is a knave\". Lily was heard saying, \"If Ella is a knave then Aria is a knight\". \"Lily is not a knight,\" Ethan claimed. Grace was heard saying, \"If Aria is a knave then Ella is a knight\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Aria is a knight\n(2) Penelope is a knight\n(3) Ella is a knight\n(4) Lily is a knight\n(5) Ethan is a knave\n(6) Grace is a knight"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Samuel, Lily, Sebastian, Penelope, Chloe, and David. Samuel commented, \"Lily is a knight\". Lily said that Penelope is not a knight. \"David is a knight,\" Sebastian claimed. Penelope noted, \"David is a knight and Chloe is a knave\". Chloe remarked, \"If Penelope is a knave then David is a knight\". David noted, \"Penelope is a knave\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Samuel is a knight\n(2) Lily is a knight\n(3) Sebastian is a knight\n(4) Penelope is a knave\n(5) Chloe is a knight\n(6) David is a knight"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Noah, Charlotte, Lily, Samuel, Owen, and Grace. Noah expressed that Lily is a knight or Charlotte is a knave. Charlotte expressed that If Lily is a knight then Noah is a knight. \"If Samuel is a knight then Lily is a knight,\" Lily claimed. Samuel said, \"Lily is a knight.\" Owen told you that Samuel is a knave or Charlotte is a knave. Grace commented, \"Lily is a knight and Samuel is a knave\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Noah is a knight\n(2) Charlotte is a knight\n(3) Lily is a knight\n(4) Samuel is a knight\n(5) Owen is a knave\n(6) Grace is a knave"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Grace, Aiden, Alexander, Harper, Zoey, and Henry. According to Grace, \"Henry is a knave and Alexander is a knave\". Aiden expressed that Zoey is a knave if and only if Grace is a knight. \"Grace is a knight and Zoey is a knight\" - Alexander. Harper commented, \"Henry is a knight if and only if Aiden is a knight\". According to Zoey, \"Henry is not a knight\". Henry commented, \"Aiden is a knave\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Grace is a knave\n(2) Aiden is a knave\n(3) Alexander is a knave\n(4) Harper is a knave\n(5) Zoey is a knave\n(6) Henry is a knight"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Mia, Lucas, Aiden, Liam, Samuel, and Sofia. In a statement by Mia: \"Samuel is a knave or Aiden is a knave\". Lucas told you that Aiden is a knight and Aiden is a knave. In Aiden's words: \"Aiden is a knight or Mia is a knight\". In a statement by Liam: \"Sofia is a knave or Lucas is a knave\". Samuel remarked, \"Sofia is a knight\". According to Sofia, \"Liam is a knave\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Mia is a knight\n(2) Lucas is a knave\n(3) Aiden is a knight\n(4) Liam is a knight\n(5) Samuel is a knave\n(6) Sofia is a knave"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: James, Alexander, Benjamin, Mia, Sophia, and Oliver. \"Sophia is a knave or Alexander is a knight\" - James. Alexander noted, \"James is a knave and Mia is a knight\". Benjamin told you that Alexander is not a knight. \"Sophia is a knave or Alexander is a knight,\" Mia mentioned. In Sophia's words: \"If Benjamin is a knight then Oliver is a knave\". Oliver asserted: \"Benjamin is a knave and Mia is a knave\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) James is a knave\n(2) Alexander is a knave\n(3) Benjamin is a knight\n(4) Mia is a knave\n(5) Sophia is a knight\n(6) Oliver is a knave"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Ava, Liam, Jacob, James, Noah, and Joseph. Ava said that Noah is a knave. \"Jacob is a knave if and only if Joseph is a knight,\" Liam mentioned. In Jacob's words: \"James is a knight or Joseph is a knight\". James stated, \"If Noah is a knave then Jacob is a knight\". Noah told you that Jacob is a knight or Jacob is a knave. Joseph remarked, \"Noah is not a knight\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Ava is a knave\n(2) Liam is a knight\n(3) Jacob is a knight\n(4) James is a knight\n(5) Noah is a knight\n(6) Joseph is a knave"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Emily, Noah, Sophia, Olivia, Avery, and Grace. In a statement by Emily: \"If Avery is a knave then Noah is a knight\". As Noah put it, \"If Avery is a knave then Emily is a knave\". Sophia told you that Grace is a knave and Olivia is a knight. \"Noah is not a knight\" - Olivia. Avery told you that Grace is not a knight. Grace told you that If Olivia is a knave then Avery is a knave. So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Emily is a knight\n(2) Noah is a knight\n(3) Sophia is a knave\n(4) Olivia is a knave\n(5) Avery is a knight\n(6) Grace is a knave"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Elizabeth, Chloe, Avery, Liam, Isabella, and Grace. Elizabeth stated, \"If Avery is a knight then Liam is a knave\". Chloe expressed that Avery is a knight and Elizabeth is a knight. In a statement by Avery: \"Chloe is a knight if and only if Liam is a knight\". Liam said, \"Chloe is a knave if and only if Isabella is a knave.\" According to Isabella, \"Grace is a knave and Elizabeth is a knight\". As Grace put it, \"Chloe is a knave or Isabella is a knave\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Elizabeth is a knight\n(2) Chloe is a knave\n(3) Avery is a knave\n(4) Liam is a knight\n(5) Isabella is a knave\n(6) Grace is a knight"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Daniel, Harper, Sophia, Liam, Logan, and Oliver. Daniel was heard saying, \"Oliver is a knight or Sophia is a knave\". According to Harper, \"Logan is a knave and Daniel is a knight\". Sophia remarked, \"Daniel is a knight and Harper is a knight\". Liam expressed that Oliver is not a knight. Logan expressed that If Oliver is a knave then Harper is a knave. Oliver noted, \"Sophia is a knight\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Daniel is a knight\n(2) Harper is a knave\n(3) Sophia is a knave\n(4) Liam is a knight\n(5) Logan is a knight\n(6) Oliver is a knave"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Olivia, Joseph, Abigail, Sophia, Liam, and Owen. Olivia noted, \"If Owen is a knight then Sophia is a knight\". Joseph expressed that Joseph is a knight or Abigail is a knave. Abigail commented, \"Olivia is a knave and Sophia is a knave\". In Sophia's words: \"Joseph is a knight or Olivia is a knave\". Liam told you that Abigail is not a knight. \"Liam is a knight\" - Owen. So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Olivia is a knight\n(2) Joseph is a knight\n(3) Abigail is a knave\n(4) Sophia is a knight\n(5) Liam is a knight\n(6) Owen is a knight"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Sofia, Samuel, Zoey, Jackson, Isabella, and Emily. Sofia noted, \"Isabella is a knight if and only if Emily is a knight\". Samuel told you that Jackson is a knight. \"If Isabella is a knight then Sofia is a knave,\" Zoey claimed. Jackson told you that Sofia is a knight or Isabella is a knave. Isabella was heard saying, \"Jackson is a knight\". Emily expressed that Isabella is not a knave. So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Sofia is a knight\n(2) Samuel is a knight\n(3) Zoey is a knave\n(4) Jackson is a knight\n(5) Isabella is a knight\n(6) Emily is a knight"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Avery, Benjamin, Aurora, Samuel, James, and Logan. Avery was heard saying, \"Samuel is not a knave\". \"If James is a knave then Logan is a knave,\" Benjamin claimed. \"If James is a knave then James is a knight,\" Aurora claimed. Samuel commented, \"Avery is a knave or Logan is a knave\". James was heard saying, \"Samuel is a knight or Avery is a knight\". Logan commented, \"James is a knight and Samuel is a knave\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Avery is a knight\n(2) Benjamin is a knight\n(3) Aurora is a knight\n(4) Samuel is a knight\n(5) James is a knight\n(6) Logan is a knave"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Olivia, Isabella, Jackson, Elizabeth, Grace, and Chloe. \"Grace is a knave or Isabella is a knave,\" Olivia claimed. Isabella said that Olivia is a knave and Isabella is a knight. \"Isabella is a knave or Chloe is a knight,\" Jackson claimed. \"Grace is a knight\" - Elizabeth. Grace noted, \"Chloe is a knight\". Chloe commented, \"Jackson is a knave and Elizabeth is a knight\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Olivia is a knight\n(2) Isabella is a knave\n(3) Jackson is a knight\n(4) Elizabeth is a knave\n(5) Grace is a knave\n(6) Chloe is a knave"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: James, Isabella, Henry, Riley, Aurora, and Luke. According to James, \"Riley is a knight if and only if Riley is a knave\". In a statement by Isabella: \"Aurora is a knight if and only if Aurora is a knave\". Henry was heard saying, \"Isabella is not a knave\". Riley asserted: \"Henry is a knave or Aurora is a knight\". Aurora commented, \"James is a knave or Luke is a knight\". Luke asserted: \"If Aurora is a knight then Riley is a knave\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) James is a knave\n(2) Isabella is a knave\n(3) Henry is a knave\n(4) Riley is a knight\n(5) Aurora is a knight\n(6) Luke is a knave"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Jackson, Sebastian, Mason, Abigail, Lucas, and Emma. Jackson said, \"Lucas is not a knave.\" \"Mason is a knave if and only if Lucas is a knave,\" Sebastian claimed. In a statement by Mason: \"Jackson is a knight and Emma is a knave\". \"Lucas is a knave if and only if Jackson is a knight\" - Abigail. \"If Emma is a knave then Abigail is a knight,\" Lucas declared. As Emma put it, \"Sebastian is a knight or Abigail is a knave\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Jackson is a knight\n(2) Sebastian is a knave\n(3) Mason is a knave\n(4) Abigail is a knave\n(5) Lucas is a knight\n(6) Emma is a knight"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Ethan, Jacob, Penelope, Daniel, Charlotte, and Jack. Ethan was heard saying, \"Jacob is not a knight\". Jacob said that Penelope is a knight and Charlotte is a knave. Penelope expressed that Ethan is not a knight. Daniel expressed that Ethan is a knight or Charlotte is a knave. Charlotte asserted: \"Jack is not a knave\". Jack told you that If Daniel is a knave then Ethan is a knight. So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Ethan is a knight\n(2) Jacob is a knave\n(3) Penelope is a knave\n(4) Daniel is a knight\n(5) Charlotte is a knight\n(6) Jack is a knight"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Lucas, Ella, James, Oliver, Sofia, and Jacob. \"Ella is not a knight,\" Lucas declared. \"Ella is a knight if and only if Jacob is a knave,\" Ella claimed. James remarked, \"Sofia is a knave if and only if Oliver is a knight\". Oliver commented, \"James is a knight\". In Sofia's words: \"If Jacob is a knave then Lucas is a knight\". Jacob noted, \"James is a knight if and only if Ella is a knave\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Lucas is a knave\n(2) Ella is a knight\n(3) James is a knight\n(4) Oliver is a knight\n(5) Sofia is a knave\n(6) Jacob is a knave"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Emily, Amelia, Ella, Owen, Michael, and Noah. In a statement by Emily: \"Owen is a knight and Ella is a knave\". Amelia was heard saying, \"Emily is a knight or Michael is a knave\". As Ella put it, \"Michael is a knave if and only if Owen is a knight\". Owen asserted: \"Amelia is a knight and Ella is a knight\". Michael said, \"Owen is a knight or Owen is a knave.\" Noah remarked, \"Amelia is a knight and Owen is a knave\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Emily is a knave\n(2) Amelia is a knave\n(3) Ella is a knight\n(4) Owen is a knave\n(5) Michael is a knight\n(6) Noah is a knave"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Sofia, James, Henry, Jacob, Scarlett, and Amelia. \"Scarlett is a knave and Amelia is a knave,\" Sofia mentioned. According to James, \"Sofia is a knight and Amelia is a knave\". In a statement by Henry: \"James is a knave and Amelia is a knave\". Jacob said, \"Amelia is not a knave.\" \"If Sofia is a knight then Henry is a knave,\" Scarlett declared. According to Amelia, \"Sofia is not a knave\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Sofia is a knave\n(2) James is a knave\n(3) Henry is a knight\n(4) Jacob is a knave\n(5) Scarlett is a knight\n(6) Amelia is a knave"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: David, Noah, Abigail, Harper, Alexander, and Sebastian. \"Sebastian is a knave or David is a knight,\" David declared. Noah remarked, \"If David is a knight then Alexander is a knight\". Abigail was heard saying, \"Noah is a knave if and only if David is a knight\". Harper noted, \"If Harper is a knight then Alexander is a knave\". Alexander said, \"Sebastian is not a knight.\" Sebastian noted, \"Harper is a knight and David is a knave\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) David is a knave\n(2) Noah is a knight\n(3) Abigail is a knight\n(4) Harper is a knight\n(5) Alexander is a knave\n(6) Sebastian is a knight"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Elizabeth, Ava, Aurora, Logan, Daniel, and Joseph. Elizabeth was heard saying, \"Ava is a knight and Daniel is a knight\". \"Daniel is a knave and Elizabeth is a knave,\" Ava declared. \"If Joseph is a knave then Aurora is a knight,\" Aurora claimed. \"If Aurora is a knight then Elizabeth is a knave,\" Logan mentioned. According to Daniel, \"If Elizabeth is a knave then Aurora is a knave\". Joseph told you that Aurora is a knight if and only if Ava is a knight. So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Elizabeth is a knave\n(2) Ava is a knight\n(3) Aurora is a knight\n(4) Logan is a knight\n(5) Daniel is a knave\n(6) Joseph is a knight"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Matthew, Liam, Jackson, James, William, and Ava. Matthew noted, \"Ava is a knave if and only if William is a knight\". As Liam put it, \"Matthew is a knight or Ava is a knave\". In a statement by Jackson: \"Ava is not a knave\". James commented, \"William is a knave or James is a knight\". William commented, \"Ava is not a knight\". \"Matthew is a knight or Liam is a knave,\" Ava claimed. So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Matthew is a knight\n(2) Liam is a knight\n(3) Jackson is a knight\n(4) James is a knight\n(5) William is a knave\n(6) Ava is a knight"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Jack, Emily, Ava, Daniel, Lily, and James. According to Jack, \"James is a knight if and only if Emily is a knight\". \"Ava is a knave\" - Emily. Ava said, \"Daniel is not a knight.\" As Daniel put it, \"If Lily is a knight then Jack is a knight\". Lily said, \"Daniel is a knave and Ava is a knight.\" James remarked, \"Daniel is a knave and Jack is a knight\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Jack is a knave\n(2) Emily is a knight\n(3) Ava is a knave\n(4) Daniel is a knight\n(5) Lily is a knave\n(6) James is a knave"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Ava, Chloe, Sophia, Scarlett, Sebastian, and Sofia. \"Sofia is a knight if and only if Scarlett is a knight\" - Ava. \"Sofia is a knave and Chloe is a knight\" - Chloe. Sophia remarked, \"Sofia is a knave and Scarlett is a knave\". \"If Sebastian is a knight then Chloe is a knave,\" Scarlett declared. Sebastian was heard saying, \"Chloe is a knight\". As Sofia put it, \"Sebastian is a knight\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Ava is a knave\n(2) Chloe is a knave\n(3) Sophia is a knave\n(4) Scarlett is a knight\n(5) Sebastian is a knave\n(6) Sofia is a knave"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Emily, Mia, Aiden, Zoey, Luke, and Victoria. Emily noted, \"Aiden is not a knight\". \"Aiden is a knave\" - Mia. \"Zoey is a knave or Victoria is a knave,\" Aiden mentioned. \"Luke is a knight or Luke is a knave,\" Zoey declared. \"If Emily is a knave then Aiden is a knave,\" Luke claimed. Victoria said, \"Zoey is not a knight.\" So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Emily is a knave\n(2) Mia is a knave\n(3) Aiden is a knight\n(4) Zoey is a knight\n(5) Luke is a knave\n(6) Victoria is a knave"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Charlotte, Benjamin, Aurora, Aria, David, and Logan. According to Charlotte, \"Benjamin is a knight if and only if Aurora is a knight\". As Benjamin put it, \"Charlotte is not a knave\". According to Aurora, \"If Aria is a knight then Aria is a knave\". As Aria put it, \"Charlotte is a knave or David is a knight\". \"Benjamin is not a knight,\" David mentioned. \"Aria is a knave and Charlotte is a knight,\" Logan declared. So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Charlotte is a knight\n(2) Benjamin is a knight\n(3) Aurora is a knight\n(4) Aria is a knave\n(5) David is a knave\n(6) Logan is a knight"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Joseph, Luke, Riley, Avery, James, and Ava. Joseph said that Avery is a knight or James is a knight. Luke told you that James is a knight if and only if Avery is a knight. \"Ava is a knight,\" Riley claimed. Avery commented, \"Joseph is a knave\". James stated, \"If Ava is a knight then Avery is a knight\". \"Luke is a knight if and only if Luke is a knave\" - Ava. So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Joseph is a knight\n(2) Luke is a knave\n(3) Riley is a knave\n(4) Avery is a knave\n(5) James is a knight\n(6) Ava is a knave"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Elizabeth, Isabella, Grace, Zoey, Emily, and Aiden. Elizabeth commented, \"Emily is a knave if and only if Zoey is a knave\". Isabella remarked, \"Grace is a knave or Aiden is a knight\". \"Zoey is not a knave,\" Grace mentioned. \"Grace is a knight and Isabella is a knave,\" Zoey mentioned. \"If Elizabeth is a knight then Zoey is a knave,\" Emily claimed. Aiden asserted: \"Grace is a knight\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Elizabeth is a knave\n(2) Isabella is a knight\n(3) Grace is a knave\n(4) Zoey is a knave\n(5) Emily is a knight\n(6) Aiden is a knave"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Penelope, Emma, Matthew, Logan, Samuel, and Aria. Penelope told you that Aria is a knave and Matthew is a knight. Emma asserted: \"Samuel is a knight\". Matthew told you that If Aria is a knight then Penelope is a knave. Logan remarked, \"Emma is a knave or Logan is a knight\". \"Logan is a knave and Aria is a knave,\" Samuel claimed. \"If Logan is a knave then Emma is a knight,\" Aria claimed. So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Penelope is a knave\n(2) Emma is a knave\n(3) Matthew is a knight\n(4) Logan is a knight\n(5) Samuel is a knave\n(6) Aria is a knight"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Penelope, James, Matthew, Lucas, Sebastian, and Sophia. According to Penelope, \"Sebastian is a knight or Sebastian is a knave\". As James put it, \"If Matthew is a knight then Penelope is a knight\". Matthew noted, \"If Matthew is a knight then Lucas is a knight\". \"If Matthew is a knave then Penelope is a knave,\" Lucas claimed. Sebastian told you that If Sophia is a knave then Matthew is a knave. Sophia said that James is not a knave. So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Penelope is a knight\n(2) James is a knight\n(3) Matthew is a knight\n(4) Lucas is a knight\n(5) Sebastian is a knight\n(6) Sophia is a knight"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Isabella, Noah, Emily, Riley, James, and Alexander. In Isabella's words: \"Emily is a knave\". Noah expressed that James is a knight or Isabella is a knave. Emily said, \"Noah is not a knight.\" Riley stated, \"Alexander is not a knight\". James told you that Emily is not a knight. \"If Isabella is a knave then Riley is a knight,\" Alexander mentioned. So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Isabella is a knight\n(2) Noah is a knight\n(3) Emily is a knave\n(4) Riley is a knave\n(5) James is a knight\n(6) Alexander is a knight"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Grace, James, Jackson, Luke, Liam, and Henry. \"If James is a knight then Jackson is a knight,\" Grace declared. James said, \"Luke is a knight or Liam is a knight.\" Jackson asserted: \"Grace is a knave and Jackson is a knight\". \"Grace is not a knight\" - Luke. \"Grace is a knight or James is a knight,\" Liam claimed. Henry noted, \"Liam is not a knight\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Grace is a knave\n(2) James is a knight\n(3) Jackson is a knave\n(4) Luke is a knight\n(5) Liam is a knight\n(6) Henry is a knave"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Emma, Isabella, Samuel, Luke, Liam, and Mason. In a statement by Emma: \"Luke is a knight and Mason is a knave\". Isabella said, \"Luke is not a knave.\" Samuel commented, \"Isabella is a knave and Liam is a knight\". Luke said that Emma is a knight and Isabella is a knave. \"Mason is a knave and Luke is a knight,\" Liam mentioned. According to Mason, \"If Luke is a knight then Liam is a knave\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Emma is a knave\n(2) Isabella is a knave\n(3) Samuel is a knave\n(4) Luke is a knave\n(5) Liam is a knave\n(6) Mason is a knight"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Logan, Ella, Aurora, James, Emma, and Lucas. Logan asserted: \"If Emma is a knave then Lucas is a knave\". Ella told you that If Logan is a knave then Aurora is a knave. In Aurora's words: \"Lucas is a knight and Lucas is a knave\". In a statement by James: \"Logan is a knight and Lucas is a knave\". Emma remarked, \"James is a knight or Lucas is a knight\". Lucas said that Lucas is a knight or James is a knight. So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Logan is a knight\n(2) Ella is a knight\n(3) Aurora is a knave\n(4) James is a knave\n(5) Emma is a knight\n(6) Lucas is a knight"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Olivia, Joseph, Matthew, Penelope, Charlotte, and Liam. Olivia told you that Olivia is a knight or Charlotte is a knave. Joseph said, \"Penelope is a knave and Liam is a knave.\" Matthew commented, \"Penelope is not a knave\". \"If Joseph is a knave then Liam is a knight\" - Penelope. Charlotte noted, \"Matthew is a knight if and only if Olivia is a knave\". Liam was heard saying, \"Penelope is a knave or Olivia is a knave\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Olivia is a knave\n(2) Joseph is a knave\n(3) Matthew is a knight\n(4) Penelope is a knight\n(5) Charlotte is a knight\n(6) Liam is a knight"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Joseph, Scarlett, Aiden, Riley, Emma, and Henry. Joseph told you that Riley is a knight or Emma is a knight. Scarlett commented, \"Aiden is a knight and Joseph is a knave\". Aiden noted, \"If Emma is a knave then Henry is a knight\". \"Henry is a knight if and only if Aiden is a knave,\" Riley declared. According to Emma, \"Scarlett is not a knave\". Henry noted, \"Emma is not a knave\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Joseph is a knave\n(2) Scarlett is a knave\n(3) Aiden is a knave\n(4) Riley is a knave\n(5) Emma is a knave\n(6) Henry is a knave"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Chloe, Henry, Emma, Elizabeth, Jacob, and Ella. Chloe stated, \"Ella is a knave and Elizabeth is a knight\". \"If Elizabeth is a knave then Chloe is a knave\" - Henry. \"If Elizabeth is a knave then Henry is a knave,\" Emma claimed. Elizabeth commented, \"Ella is a knight\". Jacob stated, \"Emma is not a knight\". Ella asserted: \"Jacob is a knave or Elizabeth is a knave\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Chloe is a knave\n(2) Henry is a knight\n(3) Emma is a knight\n(4) Elizabeth is a knight\n(5) Jacob is a knave\n(6) Ella is a knight"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Joseph, Jacob, Avery, Scarlett, Sofia, and Noah. Joseph expressed that Avery is a knave or Noah is a knave. As Jacob put it, \"Noah is not a knight\". In a statement by Avery: \"Scarlett is a knight or Sofia is a knight\". Scarlett remarked, \"Noah is a knave and Avery is a knave\". In a statement by Sofia: \"Noah is a knave if and only if Sofia is a knight\". Noah noted, \"Jacob is a knave if and only if Sofia is a knight\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Joseph is a knight\n(2) Jacob is a knight\n(3) Avery is a knight\n(4) Scarlett is a knave\n(5) Sofia is a knight\n(6) Noah is a knave"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Michael, Jacob, Sofia, Isabella, Emily, and Joseph. As Michael put it, \"If Emily is a knight then Michael is a knight\". Jacob remarked, \"Sofia is a knight or Isabella is a knave\". In a statement by Sofia: \"Isabella is a knave and Isabella is a knight\". In Isabella's words: \"Michael is a knave or Joseph is a knave\". \"Jacob is a knave and Emily is a knight\" - Emily. Joseph expressed that Joseph is a knight if and only if Jacob is a knight. So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Michael is a knight\n(2) Jacob is a knight\n(3) Sofia is a knave\n(4) Isabella is a knave\n(5) Emily is a knave\n(6) Joseph is a knight"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: David, Ava, Riley, Aiden, Sebastian, and Abigail. In David's words: \"Riley is not a knave\". Ava said that Sebastian is a knight and Abigail is a knight. Riley expressed that David is a knave and Aiden is a knight. Aiden noted, \"David is a knight and Sebastian is a knight\". Sebastian asserted: \"David is a knight\". Abigail asserted: \"Riley is a knight or Sebastian is a knight\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) David is a knave\n(2) Ava is a knave\n(3) Riley is a knave\n(4) Aiden is a knave\n(5) Sebastian is a knave\n(6) Abigail is a knave"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Riley, Charlotte, Oliver, Abigail, Scarlett, and Joseph. Riley said, \"Riley is a knight if and only if Charlotte is a knave.\" Charlotte was heard saying, \"Oliver is a knave or Abigail is a knave\". Oliver noted, \"Joseph is a knight\". \"If Scarlett is a knave then Riley is a knave,\" Abigail mentioned. Scarlett stated, \"Charlotte is not a knave\". \"If Charlotte is a knight then Abigail is a knight,\" Joseph claimed. So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Riley is a knave\n(2) Charlotte is a knave\n(3) Oliver is a knight\n(4) Abigail is a knight\n(5) Scarlett is a knave\n(6) Joseph is a knight"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Aiden, Daniel, Aurora, Penelope, Abigail, and Matthew. In Aiden's words: \"Penelope is a knight or Aurora is a knight\". According to Daniel, \"Penelope is not a knave\". Aurora stated, \"Aiden is a knight or Aiden is a knave\". \"Aurora is a knight,\" Penelope mentioned. \"Aurora is a knave,\" Abigail claimed. Matthew stated, \"Aurora is not a knave\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Aiden is a knight\n(2) Daniel is a knight\n(3) Aurora is a knight\n(4) Penelope is a knight\n(5) Abigail is a knave\n(6) Matthew is a knight"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Owen, Samuel, Abigail, Daniel, Benjamin, and Zoey. Owen said that If Daniel is a knight then Samuel is a knight. Samuel stated, \"Daniel is a knave or Zoey is a knight\". Abigail remarked, \"Daniel is a knight\". In Daniel's words: \"If Zoey is a knave then Samuel is a knight\". \"Abigail is a knave,\" Benjamin declared. Zoey said, \"Zoey is a knight.\" So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Owen is a knight\n(2) Samuel is a knight\n(3) Abigail is a knight\n(4) Daniel is a knight\n(5) Benjamin is a knave\n(6) Zoey is a knight"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Lily, Emma, Victoria, Alexander, Zoey, and Scarlett. In a statement by Lily: \"If Alexander is a knave then Zoey is a knave\". Emma commented, \"Victoria is a knight if and only if Alexander is a knave\". Victoria said, \"Scarlett is not a knight.\" In Alexander's words: \"Zoey is a knight\". In a statement by Zoey: \"Scarlett is a knave\". \"Victoria is a knight and Alexander is a knave,\" Scarlett declared. So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Lily is a knight\n(2) Emma is a knave\n(3) Victoria is a knight\n(4) Alexander is a knight\n(5) Zoey is a knight\n(6) Scarlett is a knave"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Avery, Elizabeth, Mia, Olivia, Mason, and Ava. Avery commented, \"If Mason is a knight then Ava is a knight\". Elizabeth told you that Mason is a knave or Mia is a knave. \"Elizabeth is a knave or Ava is a knight,\" Mia mentioned. Olivia said that Ava is a knight. Mason expressed that If Ava is a knave then Olivia is a knave. According to Ava, \"Mason is not a knave\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Avery is a knight\n(2) Elizabeth is a knave\n(3) Mia is a knight\n(4) Olivia is a knight\n(5) Mason is a knight\n(6) Ava is a knight"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Aiden, Benjamin, Olivia, Sofia, Aurora, and Harper. Aiden told you that Aiden is a knight or Olivia is a knave. Benjamin told you that Aurora is a knave or Sofia is a knave. In Olivia's words: \"Aurora is not a knave\". Sofia said that Aurora is a knight. In Aurora's words: \"Sofia is a knave if and only if Aurora is a knight\". Harper asserted: \"Sofia is a knight and Aiden is a knight\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Aiden is a knight\n(2) Benjamin is a knight\n(3) Olivia is a knave\n(4) Sofia is a knave\n(5) Aurora is a knave\n(6) Harper is a knave"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Sophia, Logan, Abigail, Lily, Victoria, and Aiden. \"Logan is a knight and Lily is a knave,\" Sophia declared. \"Logan is a knight if and only if Lily is a knave,\" Logan declared. Abigail said that Aiden is not a knave. Lily stated, \"Sophia is a knave and Victoria is a knight\". According to Victoria, \"Sophia is not a knight\". \"Victoria is a knight,\" Aiden declared. So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Sophia is a knight\n(2) Logan is a knight\n(3) Abigail is a knave\n(4) Lily is a knave\n(5) Victoria is a knave\n(6) Aiden is a knave"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Avery, Amelia, Liam, Emily, Olivia, and Jack. \"Avery is a knight or Jack is a knight,\" Avery mentioned. \"Emily is a knight if and only if Olivia is a knave,\" Amelia claimed. \"Avery is a knave,\" Liam mentioned. Emily remarked, \"Liam is a knave or Olivia is a knave\". Olivia commented, \"Avery is a knight and Avery is a knave\". Jack told you that If Olivia is a knave then Amelia is a knight. So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Avery is a knight\n(2) Amelia is a knight\n(3) Liam is a knave\n(4) Emily is a knight\n(5) Olivia is a knave\n(6) Jack is a knight"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Sofia, Liam, Owen, Riley, Aurora, and Alexander. \"Aurora is not a knave,\" Sofia declared. \"Sofia is a knave\" - Liam. Owen said that If Sofia is a knight then Aurora is a knave. Riley expressed that Sofia is a knave and Aurora is a knight. Aurora commented, \"Riley is not a knave\". Alexander asserted: \"Sofia is a knight and Aurora is a knave\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Sofia is a knave\n(2) Liam is a knight\n(3) Owen is a knight\n(4) Riley is a knave\n(5) Aurora is a knave\n(6) Alexander is a knave"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Aiden, Evelyn, Ella, Avery, James, and Emma. \"Emma is a knight and Evelyn is a knight,\" Aiden declared. Evelyn told you that If Aiden is a knave then Ella is a knight. As Ella put it, \"James is a knave\". Avery told you that Ella is a knight. James commented, \"Emma is a knight\". Emma commented, \"Emma is a knight and James is a knave\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Aiden is a knave\n(2) Evelyn is a knight\n(3) Ella is a knight\n(4) Avery is a knight\n(5) James is a knave\n(6) Emma is a knave"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Mason, Riley, Jacob, Zoey, Ava, and Amelia. \"If Mason is a knight then Zoey is a knight,\" Mason declared. Riley said, \"Mason is a knave or Mason is a knight.\" \"If Zoey is a knight then Mason is a knave,\" Jacob claimed. According to Zoey, \"Jacob is a knave\". Ava asserted: \"Mason is not a knave\". Amelia stated, \"Mason is a knight and Ava is a knight\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Mason is a knight\n(2) Riley is a knight\n(3) Jacob is a knave\n(4) Zoey is a knight\n(5) Ava is a knight\n(6) Amelia is a knight"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Amelia, Liam, Sebastian, Scarlett, Ava, and Oliver. Amelia stated, \"Ava is not a knight\". Liam said, \"Oliver is not a knave.\" In a statement by Sebastian: \"Oliver is a knave\". \"If Oliver is a knave then Ava is a knight,\" Scarlett claimed. Ava commented, \"If Sebastian is a knave then Sebastian is a knight\". As Oliver put it, \"Liam is a knave if and only if Sebastian is a knave\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Amelia is a knave\n(2) Liam is a knave\n(3) Sebastian is a knight\n(4) Scarlett is a knight\n(5) Ava is a knight\n(6) Oliver is a knave"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Sebastian, Owen, Mason, Lily, Evelyn, and William. \"Owen is a knight,\" Sebastian claimed. According to Owen, \"Evelyn is not a knight\". As Mason put it, \"William is not a knight\". Lily said, \"Mason is a knight and William is a knave.\" \"Sebastian is a knave if and only if Evelyn is a knight,\" Evelyn declared. In William's words: \"If Mason is a knave then Evelyn is a knight\". So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Sebastian is a knave\n(2) Owen is a knave\n(3) Mason is a knave\n(4) Lily is a knave\n(5) Evelyn is a knight\n(6) William is a knight"
+    },
+    {
+        "quiz": "A very special island is inhabited only by knights and knaves. Knights always tell the truth, and knaves always lie. You meet 6 inhabitants: Charlotte, Lily, Jackson, Alexander, Emma, and Lucas. \"Lucas is a knight and Charlotte is a knight\" - Charlotte. Lily was heard saying, \"Alexander is a knave if and only if Lucas is a knight\". Jackson expressed that Charlotte is not a knight. Alexander remarked, \"Charlotte is a knave\". \"Jackson is a knave and Lily is a knave,\" Emma claimed. Lucas said, \"Emma is not a knave.\" So who is a knight and who is a knave?",
+        "solution_text_format": "(1) Charlotte is a knave\n(2) Lily is a knight\n(3) Jackson is a knight\n(4) Alexander is a knight\n(5) Emma is a knave\n(6) Lucas is a knave"
+    }
+]
