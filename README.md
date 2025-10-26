@@ -12,7 +12,7 @@ This dataset extends the [Knights-and-Knaves](https://huggingface.co/datasets/K-
 The dataset was introduced in our EMNLP 2025 paper:  
 ➡️ [*Language Mixing in Reasoning Language Models: Patterns, Impact, and Internal Causes*](https://arxiv.org/abs/2505.14815)  
 
-The companion code for reproducing our analyses is available in this repository:  👉 [Language-Mixing (coming soon)](https://github.com/boschresearch/Language-Mixing)  
+The companion code for reproducing our analyses is available in this repository:  👉 [Language-Mixing](https://github.com/boschresearch/Language-Mixing). You can also find our dataset on [HuggingFace](https://huggingface.co/datasets/mingyang26/knights-and-knaves-multilingual).
 
 
 ## 📂 Dataset Structure  
@@ -41,3 +41,4 @@ If you use this dataset or our paper in your research, please cite:
 }
 
 ```
+
